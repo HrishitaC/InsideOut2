@@ -1,3 +1,7 @@
 API_keys.json
 Data/DPLp-IT_lrec2016.txt
 Data/ItEM.FBNEWS15.cos
+Data/IT_emotion_lexicon.csv
+Data/IT_emotion_lexicon_cosine.csv
+Data/IT_sentiment_lexicon.csv
+Data/ItEM.elicitated.lemmas.txt
