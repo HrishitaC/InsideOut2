@@ -1,6 +1,6 @@
-Query,Source,query_len,topic,search_type
+query,source,query_len,topic,search_type
 Chi era il padre di Micerino ?,IT-GUI,6,history,multisteps
-Il figlio di Chefren,IT-GUI,4,history, multisteps
+Il figlio di Chefren,IT-GUI,4,history,multisteps
 Il padre di Micerino,IT-GUI,4,history,multisteps
 Micerino,IT-GUI,1,history,multisteps
 Quanto e alta la tomba di Cheope?,IT-GUI,7,history,fact
@@ -11,7 +11,7 @@ CHE VELOCITA PUO RAGGIUNGERE UN TORNADO FENOMENO NATURALE,IT-GUI,8,tornados,fact
 Come si costruivano le piramidi Egizie?,IT-GUI,6,history,opensearch
 Dove si trova la piramide di Cheope?,IT-GUI,7,history,fact
 FANTASMA DELLE MONTAGNE,IT-GUI,3,endangered animals,multisteps
-QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,IT-GUI,8,tornados,fact 
+QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,IT-GUI,8,tornados,fact
 Quale e la piramide egizia piu` alta ?,IT-GUI,7,history,fact
 Quanto era alta la tomba del padre di Micerino?,IT-GUI,9,history,fact
 quanto Ã¨ alta la tomba del padre di micerino,IT-GUI,9,history,multisteps
@@ -23,12 +23,12 @@ regioni italÃ©8iane con piu` squadre di pallavolo,IT-GUI,7,sports,multisteps
 tre animali a rischio di estinzione,IT-GUI,6,endangered animals,fact
 tre animali a rischio estinzione,IT-GUI,5,endangered animals,fact
 tre animali in via di estinzione,IT-GUI,6,endangered animals,fact
-trova 3 animali a rischio di estinzione,IT-GUI,7,endangered animals, fact
+trova 3 animali a rischio di estinzione,IT-GUI,7,endangered animals,fact
 un bambino sano quanto pasti fa al giorno,IT-GUI,8,sports,fact
 un fantasma delle montagne foto,IT-GUI,5,endangered animals,fact
 vulcano attivo piu atlantico,IT-GUI,4,volcanos,fact
 wwf in via di estinzione,IT-GUI,5,endangered animals,fact
-zigurat,IT-GUI,1,history
+zigurat,IT-GUI,1,history,unknown
 i vantaggi della dieta mediterranea,IT-Wizard,5,sports,opensearch
 il leopardo delle nevi e invertebrato o vertebrato,IT-Wizard,8,endangered animals,fact
 chi era san giuseppe,IT-Wizard,4,father day,fact
@@ -93,7 +93,7 @@ classificazione del leopardo delle nevi,IT-Bambini,5,endangered animals,fact
 classificazione leopardo delle nevi,IT-Bambini,4,endangered animals,fact
 come aiutarele specie in estinzione,IT-Bambini,5,endangered animals,infosearch
 come possiamo aiutare le specie in estinzione,IT-Bambini,7,endangered animals,infosearch
-come si chiama Monica,IT-Bambini,4
+come si chiama Monica,IT-Bambini,4,,unknown
 come si formano i vulcani?,IT-Bambini,5,volcanos,opensearch
 come si trovano i vulcani?,IT-Bambini,5,volcanos,opensearch
 come viene classificato il leopardo delle nevi?,IT-Bambini,7,endangered animals,fact

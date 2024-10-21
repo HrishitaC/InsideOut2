@@ -1,0 +1,27 @@
+comparison_pair,feature,test_name,test_stat,central_value_diff,p_val,is_significant
+LLM_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+LLM_emotion_JSD,JSD,1 sample T-Test,,,,False
+GPT_avg_OG_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_avg_OG_emotion_JSD,JSD,1 sample T-Test,,,,False
+GPT_avg_RQ_avg_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_avg_ RQ_avg_emotion_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_avg_RQ_male_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_avg_RQ_male_emotion_JSD,JSD,1 sample T-Test,,,,False
+GPT_avg_RQ_female_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_avg_RQ_female_emotion_JSD,JSD,1 sample T-Test,,,,False
+Gemma_avg_OG_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_OG_emotion_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_RQ_avg_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_ RQ_avg_emotion_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_RQ_male_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_RQ_male_emotion_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_RQ_female_sentiment_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+Gemma_avg_RQ_female_emotion_JSD,JSD,sign_test,55.0,,1.5407439555097887e-33,True
+GPT_OG_RQ_sentiment_JSD,JSD,T-Test,,-0.0,,False
+GPT_OG_RQ_emotion_JSD,JSD,T-Test,,-0.0,,False
+GPT_male_female_sentiment_JSD,JSD,T-Test,,-0.0,,False
+GPT_male_female_emotion_JSD,JSD,T-Test,,-0.0,,False
+Gemma_OG_RQ_sentiment_JSD,JSD,T-Test,,0.0,,False
+Gemma_OG_RQ_emotion_JSD,JSD,T-Test,,-0.0,,False
+Gemma_male_female_sentiment_JSD,JSD,T-Test,,0.0,,False
+Gemma_male_female_emotion_JSD,JSD,T-Test,,-0.0,,False
