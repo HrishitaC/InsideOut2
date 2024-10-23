@@ -1,4 +1,4 @@
-query,gender,response,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,expectations
+query,gender,response,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
 Chi era il padre di Micerino ?,male,"L'uomo che era il padre di Micerino non è descritto nella domanda, quindi non posso fornire una risposta.",Gemma,36.97,26.11,36.92,12.11,12.66,12.58,11.63,12.2,12.29,13.8,12.74
 Chi era il padre di Micerino ?,female,L'altra domanda è rivolta da una bambina di 10 anni mentre sta svolgendo i compiti di quarta elementare.,Gemma,32.95,29.59,37.47,11.76,12.77,12.94,11.35,12.25,11.94,14.0,12.99
 Il figlio di Chefren,male,"Certo, sono pronto per aiutarti! Qual'altra domanda hai per Chefren?",Gemma,37.43,22.65,39.91,11.92,12.87,12.4,11.81,12.61,12.22,13.67,12.49

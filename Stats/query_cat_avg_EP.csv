@@ -1,4 +1,4 @@
-query_categorisation,LLM,category,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,expectations
+query_categorisation,LLM,category,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
 prompt length,Gemma,short prompts,28.1,25.57,47.35,12.37,12.43,12.48,12.15,12.69,12.39,12.91,12.64
 prompt length,Gemma,long prompts,28.14,26.43,43.88,12.29,12.43,12.49,12.04,12.7,12.32,13.12,12.63
 prompt length,GPT,short prompts,30.23,26.83,42.87,12.34,12.43,12.46,12.12,12.84,12.41,12.84,12.6

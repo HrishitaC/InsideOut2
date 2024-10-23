@@ -9,7 +9,7 @@ Gemma_GPT,disgust,Mann-Whitney U,5797.0,-0.02,0.5926543681604424,False
 Gemma_GPT,fear,Mann-Whitney U,5103.0,-0.12,0.044922002492377,True
 Gemma_GPT,sadness,Mann-Whitney U,4667.0,-0.07,0.0033960527388086463,True
 Gemma_GPT,trust,Mann-Whitney U,6497.5,0.18,0.34365322284353084,False
-Gemma_GPT,expectations,Mann-Whitney U,6469.0,0.05,0.37527437147171305,False
+Gemma_GPT,anticipation,Mann-Whitney U,6469.0,0.05,0.37527437147171305,False
 Gemma_OG_RQ,positive,Mann-Whitney U,3429.0,-2.56,2.8369605559947394e-08,True
 Gemma_OG_RQ,negative,Mann-Whitney U,5678.5,-0.6,0.4319154587780394,False
 Gemma_OG_RQ,neutral,Mann-Whitney U,7758.0,2.86,0.0002978854955663101,True
@@ -20,7 +20,7 @@ Gemma_OG_RQ,disgust,Mann-Whitney U,8363.5,0.21,9.569287512405312e-07,True
 Gemma_OG_RQ,fear,Mann-Whitney U,7577.0,0.12,0.0012208634478318814,True
 Gemma_OG_RQ,sadness,T-Test,1.7485791714845877,0.04,0.08177136505257013,False
 Gemma_OG_RQ,trust,Mann-Whitney U,3612.5,-0.29,2.4351119166123126e-07,True
-Gemma_OG_RQ,expectations,T-Test,-3.262780453570902,-0.1,0.0012806234218275547,True
+Gemma_OG_RQ,anticipation,T-Test,-3.262780453570902,-0.1,0.0012806234218275547,True
 Gemma_RQ_male_female,positive,Mann-Whitney U,5349.0,-0.78,0.13777850161381525,False
 Gemma_RQ_male_female,negative,T-Test,-0.6476294719035945,-0.34,0.5179060700592057,False
 Gemma_RQ_male_female,neutral,T-Test,1.9700843082295703,1.15,0.05009470589656475,False
@@ -31,7 +31,7 @@ Gemma_RQ_male_female,disgust,Mann-Whitney U,7164.5,0.12,0.018232314732014324,Tru
 Gemma_RQ_male_female,fear,Mann-Whitney U,7261.5,0.08,0.010274575436497952,True
 Gemma_RQ_male_female,sadness,Mann-Whitney U,7807.5,0.05,0.00019617546768065707,True
 Gemma_RQ_male_female,trust,T-Test,-4.121493932434993,-0.22,5.349205169565883e-05,True
-Gemma_RQ_male_female,expectations,T-Test,-5.404063418804596,-0.16,1.7024864876563994e-07,True
+Gemma_RQ_male_female,anticipation,T-Test,-5.404063418804596,-0.16,1.7024864876563994e-07,True
 GPT_OG_RQ,positive,Mann-Whitney U,4529.5,-1.28,0.0012821967480913625,True
 GPT_OG_RQ,negative,Mann-Whitney U,5139.5,-0.96,0.05389011240090107,False
 GPT_OG_RQ,neutral,Mann-Whitney U,7578.0,2.97,0.001212961346765763,True
@@ -42,7 +42,7 @@ GPT_OG_RQ,disgust,Mann-Whitney U,6991.5,0.07,0.04620265520327912,True
 GPT_OG_RQ,fear,Mann-Whitney U,6487.5,0.07,0.35455268526255124,False
 GPT_OG_RQ,sadness,Mann-Whitney U,5019.0,-0.05,0.02901561914219887,True
 GPT_OG_RQ,trust,Mann-Whitney U,4843.0,-0.12,0.01058996073871419,True
-GPT_OG_RQ,expectations,Mann-Whitney U,6239.5,0.05,0.6888597593816508,False
+GPT_OG_RQ,anticipation,Mann-Whitney U,6239.5,0.05,0.6888597593816508,False
 GPT_RQ_male_female,positive,T-Test,0.2424103454246422,0.12,0.8086901227765115,False
 GPT_RQ_male_female,negative,Mann-Whitney U,5982.0,-0.14,0.8862976256146873,False
 GPT_RQ_male_female,neutral,Mann-Whitney U,6031.0,0.33,0.9687387758154195,False
@@ -53,4 +53,4 @@ GPT_RQ_male_female,disgust,Mann-Whitney U,6171.5,-0.0,0.7976573360071785,False
 GPT_RQ_male_female,fear,Mann-Whitney U,6648.0,0.03,0.20553799493803515,False
 GPT_RQ_male_female,sadness,Mann-Whitney U,5868.5,-0.02,0.7013157671679444,False
 GPT_RQ_male_female,trust,Mann-Whitney U,5606.0,-0.09,0.3474463934807509,False
-GPT_RQ_male_female,expectations,Mann-Whitney U,5960.0,-0.01,0.8495985209441692,False
+GPT_RQ_male_female,anticipation,Mann-Whitney U,5960.0,-0.01,0.8495985209441692,False

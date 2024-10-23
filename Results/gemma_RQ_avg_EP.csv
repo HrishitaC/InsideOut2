@@ -1,4 +1,4 @@
-query,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,expectations
+query,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
 Chi era il padre di Micerino ?,gemma,34.96,27.85,37.195,11.934999999999999,12.715,12.76,11.49,12.225,12.114999999999998,13.9,12.865
 Il figlio di Chefren,gemma,34.28,25.625,40.084999999999994,11.84,12.82,12.67,11.58,12.43,12.08,13.835,12.74
 Il padre di Micerino,gemma,29.455,27.89,42.65,12.16,12.74,12.655,11.695,12.295,12.205,13.535,12.715

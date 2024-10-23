@@ -39,10 +39,10 @@ Gemma_prompt_len,trust,Mann Whitney U,1302.5,0.24941823270626717,False
 GPT_prompt_len,trust,Mann Whitney U,1364.5,0.4360197300514803,False
 LLM_short_prompt,trust,Mann Whitney U,1908.5,0.8078176753998513,False
 LLM_long_prompt,trust,Mann Whitney U,1336.5,0.3356268396424067,False
-Gemma_prompt_len,expectations,T Test,-0.3414341739362109,0.7334401601782865,False
-GPT_prompt_len,expectations,Mann Whitney U,1489.5,0.9784060881610537,False
-LLM_short_prompt,expectations,Mann Whitney U,1965.5,0.5925290609735057,False
-LLM_long_prompt,expectations,T Test,0.4822721212459025,0.6307104346379306,False
+Gemma_prompt_len,anticipation,T Test,-0.3414341739362109,0.7334401601782865,False
+GPT_prompt_len,anticipation,Mann Whitney U,1489.5,0.9784060881610537,False
+LLM_short_prompt,anticipation,Mann Whitney U,1965.5,0.5925290609735057,False
+LLM_long_prompt,anticipation,T Test,0.4822721212459025,0.6307104346379306,False
 Gemma_prompt_sentiment,positive,ANOVA,1.1860417424653618,0.3094105679938061,False
 GPT_prompt_sentiment,positive,ANOVA,5.3451939056778945,0.006128990255031315,True
 LLM_positive_prompt,positive,T Test,-1.43800373707296,0.1658971848822573,False
@@ -93,11 +93,11 @@ GPT_prompt_sentiment,trust,Kruskal Wallis H,14.433351724491327,0.000734239078582
 LLM_positive_prompt,trust,Mann Whitney U,28.5,0.03848824503077004,True
 LLM_negative_prompt,trust,T Test,-0.5923977917972059,0.5596243580853653,False
 LLM_neutral_prompt,trust,Mann Whitney U,4426.0,0.05367196946867872,False
-Gemma_prompt_sentiment,expectations,ANOVA,1.463422684235692,0.2360373231994975,False
-GPT_prompt_sentiment,expectations,Kruskal Wallis H,4.856839696539388,0.0881760541023028,False
-LLM_positive_prompt,expectations,T Test,-0.6304806071804895,0.5355185892814365,False
-LLM_negative_prompt,expectations,T Test,0.39817339649964617,0.6943401021265776,False
-LLM_neutral_prompt,expectations,Mann Whitney U,4065.0,0.39929014888701664,False
+Gemma_prompt_sentiment,anticipation,ANOVA,1.463422684235692,0.2360373231994975,False
+GPT_prompt_sentiment,anticipation,Kruskal Wallis H,4.856839696539388,0.0881760541023028,False
+LLM_positive_prompt,anticipation,T Test,-0.6304806071804895,0.5355185892814365,False
+LLM_negative_prompt,anticipation,T Test,0.39817339649964617,0.6943401021265776,False
+LLM_neutral_prompt,anticipation,Mann Whitney U,4065.0,0.39929014888701664,False
 Gemma_search_type,positive,,,,
 GPT_search_type,positive,,,,
 LLM_multisteps_search,positive,T Test,0.26473318176172095,0.7920158112325016,False
@@ -168,10 +168,10 @@ LLM_fact_search,trust,T Test,0.9502903564348488,0.3444545204899545,False
 LLM_opensearch_search,trust,T Test,-0.7156526884664413,0.48247818067102466,False
 LLM_unknown_search,trust,,,,
 LLM_infosearch_search,trust,Mann Whitney U,158.5,0.059041768869738366,False
-Gemma_search_type,expectations,,,,
-GPT_search_type,expectations,,,,
-LLM_multisteps_search,expectations,Mann Whitney U,670.5,0.4992975853908961,False
-LLM_fact_search,expectations,T Test,-0.26688837603867865,0.790152426026368,False
-LLM_opensearch_search,expectations,T Test,-0.3745136629757923,0.711963720172981,False
-LLM_unknown_search,expectations,,,,
-LLM_infosearch_search,expectations,T Test,2.336529545039448,0.02684686705709988,True
+Gemma_search_type,anticipation,,,,
+GPT_search_type,anticipation,,,,
+LLM_multisteps_search,anticipation,Mann Whitney U,670.5,0.4992975853908961,False
+LLM_fact_search,anticipation,T Test,-0.26688837603867865,0.790152426026368,False
+LLM_opensearch_search,anticipation,T Test,-0.3745136629757923,0.711963720172981,False
+LLM_unknown_search,anticipation,,,,
+LLM_infosearch_search,anticipation,T Test,2.336529545039448,0.02684686705709988,True

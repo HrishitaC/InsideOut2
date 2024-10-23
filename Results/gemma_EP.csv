@@ -1,4 +1,4 @@
-query,response,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,expectations
+query,response,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
 Chi era il padre di Micerino ?,Il padre di Micerino è Sostanza. Micerino era il figlio di Sostanza e di un uomo di nome Orazio.,Gemma,30.22,28.45,41.33,12.34,12.89,12.42,11.8,12.35,12.3,13.66,12.25
 Il figlio di Chefren,Il figlio di Chefren è **Herod** (19 a.C. - 4 a.C.).,Gemma,26.92,32.38,40.7,12.59,13.23,12.38,12.15,12.43,12.67,12.55,12.0
 Il padre di Micerino,"Il padre di Micerino è **Papa Alessandro I**.

@@ -1,4 +1,4 @@
-query,query_len_type,query_sentiment_type,search_type,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,expectations
+query,query_len_type,query_sentiment_type,search_type,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
 Chi era il padre di Micerino ?,short,neutral,multisteps,GPT,25.31,30.15,44.54,12.53,13.28,12.68,11.67,12.12,12.82,13.11,11.81
 Il figlio di Chefren,short,neutral,multisteps,GPT,25.94,20.34,53.72,12.37,12.61,12.41,12.34,12.59,12.33,12.72,12.63
 Il padre di Micerino,short,neutral,multisteps,GPT,34.52,20.13,45.35,12.83,12.72,12.41,12.22,12.33,12.43,12.61,12.45
