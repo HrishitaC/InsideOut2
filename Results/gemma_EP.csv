@@ -1,9 +1,9 @@
 query,response,LLM,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
-Chi era il padre di Micerino ?,Il padre di Micerino è Sostanza. Micerino era il figlio di Sostanza e di un uomo di nome Orazio.,Gemma,30.22,28.45,41.33,12.34,12.89,12.42,11.8,12.35,12.3,13.66,12.25
+Chi era il padre di Micerino ?,Il padre di Micerino è Sostanza. Micerino era il figlio di Sostanza e di un uomo di nome Orazio.,Gemma,30.22,28.45,41.33,12.34,12.89,12.42,11.81,12.35,12.3,13.65,12.25
 Il figlio di Chefren,Il figlio di Chefren è **Herod** (19 a.C. - 4 a.C.).,Gemma,26.92,32.38,40.7,12.59,13.23,12.38,12.15,12.43,12.67,12.55,12.0
 Il padre di Micerino,"Il padre di Micerino è **Papa Alessandro I**.
 
-Papa Alessandro I fu il primo papa di Roma e fu il principale responsabile della cristianità nella città nel primo secolo d.C.",Gemma,25.44,18.78,55.78,12.45,12.73,12.43,12.15,12.41,12.34,13.12,12.37
+Papa Alessandro I fu il primo papa di Roma e fu il principale responsabile della cristianità nella città nel primo secolo d.C.",Gemma,25.44,18.78,55.78,12.46,12.73,12.44,12.15,12.41,12.34,13.12,12.36
 Micerino,"**Micerino** is a small, round, oval-shaped object that is a common type of meteorite. It is typically made of silicate minerals, such as quartz, feldspar, and mica. Micerinos are found in a variety of locations around the world, including the Sahara Desert, the Antarctic ice sheet, and the Moon.
 
 **Characteristics of Micerino:**
@@ -23,9 +23,9 @@ Micerinos are formed when the solar system was young and the temperatures were h
 
 Micerinos have a variety of uses, including:
 
-* **Scientific research:** Micerinos are used in scientific research to study",Gemma,24.37,26.16,49.47,12.6,12.49,12.62,12.33,12.55,12.46,12.42,12.54
-Quanto e alta la tomba di Cheope?,"La tomba di Cheope è un sito archeologico in Egitto, nella provincia di Giza. La sua altura è di 60 metri (196 piedi).",Gemma,23.99,25.17,50.84,12.43,12.42,12.72,11.99,12.55,12.48,12.66,12.75
-Si e scoperto il padre di Micerino?,"Non ho informazioni sul padre di Micerino, quindi non posso rispondere questa domanda.",Gemma,30.89,35.87,33.24,12.07,12.48,12.88,11.83,12.31,12.57,13.42,12.44
+* **Scientific research:** Micerinos are used in scientific research to study",Gemma,24.37,26.16,49.47,12.71,12.61,11.8,12.46,12.66,12.58,12.54,12.64
+Quanto e alta la tomba di Cheope?,"La tomba di Cheope è un sito archeologico in Egitto, nella provincia di Giza. La sua altura è di 60 metri (196 piedi).",Gemma,23.99,25.17,50.84,12.42,12.41,12.71,12.0,12.56,12.48,12.66,12.76
+Si e scoperto il padre di Micerino?,"Non ho informazioni sul padre di Micerino, quindi non posso rispondere questa domanda.",Gemma,30.89,35.87,33.24,12.08,12.49,12.87,11.84,12.31,12.58,13.41,12.43
 quali sono le regole principali della pallavolo,"Le regole principali della pallavolo sono:
 
 **1. Formato:**
@@ -50,8 +50,8 @@ quali sono le regole principali della pallavolo,"Le regole principali della pall
 
 * Il goal è il punto più alto del campo, situato sulla linea di meta.
 * La palla deve essere lanciata dentro il campo di gioco per essere valida.
-*",Gemma,27.98,29.56,42.46,12.47,12.79,12.97,11.59,12.42,12.25,13.1,12.4
-quanti leopardi delle nevi sono rimasti,"Non ho informazioni sul numero di nevi rimasti, quindi non posso fornire una risposta a questa domanda.",Gemma,30.48,32.17,37.35,12.01,12.39,12.53,11.55,12.23,12.12,14.0,13.17
+*",Gemma,27.98,29.56,42.46,12.48,12.79,12.97,11.61,12.42,12.26,13.07,12.39
+quanti leopardi delle nevi sono rimasti,"Non ho informazioni sul numero di nevi rimasti, quindi non posso fornire una risposta a questa domanda.",Gemma,30.48,32.17,37.35,12.01,12.37,12.51,11.57,12.24,12.13,14.01,13.16
 CHE VELOCITA PUO RAGGIUNGERE UN TORNADO FENOMENO NATURALE,"Un tornado è un evento meteorologico di grande potenza che può causare danni e morte. I tornado possono essere molto diversi in dimensioni, forma e intensità, ma tutti i tornado hanno tre caratteristiche principali:
 
 * **Formante:** I tornado si formano quando un fronte di aria fredda e secca si mescola con un fronte di aria calda e umida.
@@ -64,7 +64,7 @@ I tornado possono essere causati da diverse cause, tra cui:
 * **Effetti meteorologici:** I tornado possono essere causati da un'onda di tempesta o da un fronte di aria che si fa da un'altra tempesta.
 * **Effetti meteorologici:** I tornado possono essere causati da un'onda di tornado.
 
-I tornado possono avere un effetto devastante sulla vita e sulla proprietà. I danni possono",Gemma,26.05,36.11,37.84,12.38,12.53,12.71,11.85,13.05,12.39,12.44,12.65
+I tornado possono avere un effetto devastante sulla vita e sulla proprietà. I danni possono",Gemma,26.05,36.11,37.84,12.38,12.51,12.71,11.85,13.06,12.39,12.42,12.68
 Come si costruivano le piramidi Egizie?,"Le piramidi Egizie sono un complesso di piramidi che si sono formati nel corso dei millenni. Le piramidi sono state costruite da diverse culture e per diverse ragioni.
 
 **1. Uso delle piramidi come monumenti di memoria:** Le piramidi sono state costruite come monumenti di memoria per le persone che hanno governato il Egito. I re egizi hanno spesso fatto erigere piramidi per commemorare i loro successi e le loro imprese.
@@ -73,8 +73,8 @@ Come si costruivano le piramidi Egizie?,"Le piramidi Egizie sono un complesso di
 
 **3. Uso delle piramidi come attrazioni turistiche:** Le piramidi sono oggi una delle attrazioni turistiche più visitate del mondo. I turisti possono vedere le piramidi da vicino o possono salire su una delle loro scale per avere una vista panoramica della città.
 
-**4. Uso delle piramidi come opere d'arte:** Le piramidi sono anche opere d'arte. I re egizi hanno spesso fatto erigere piramidi con decorazioni elaborate",Gemma,28.16,20.01,51.83,12.41,12.59,12.34,11.94,12.54,12.26,13.4,12.52
-Dove si trova la piramide di Cheope?,"La piramide di Cheope si trova nell'Egitto, nella provincia di Giza.",Gemma,26.61,27.78,45.61,12.3,12.61,12.64,12.05,12.47,12.06,12.89,12.97
+**4. Uso delle piramidi come opere d'arte:** Le piramidi sono anche opere d'arte. I re egizi hanno spesso fatto erigere piramidi con decorazioni elaborate",Gemma,28.16,20.01,51.83,12.41,12.59,12.34,11.95,12.54,12.25,13.4,12.53
+Dove si trova la piramide di Cheope?,"La piramide di Cheope si trova nell'Egitto, nella provincia di Giza.",Gemma,26.61,27.78,45.61,12.31,12.62,12.64,12.05,12.46,12.06,12.89,12.97
 FANTASMA DELLE MONTAGNE,"**Fantasma delle Montagne** is a 1998 Italian horror film directed by Dario Argento and starring Daria Argento, Terence Stamp, and Francesca Olivieri.
 
 **Plot:**
@@ -94,15 +94,15 @@ A group of friends traveling through the Italian countryside encounter a series 
 * Fear of the unknown
 * Isolation and loneliness
 * The power of the human mind
-",Gemma,24.4,22.15,53.45,12.76,12.39,12.78,12.24,12.37,12.4,12.41,12.66
-QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,"Non sono in grado di fornire informazioni sul tortattamento o la torture, e non posso suggerire soluzioni o consigli per questo tipo di problemi.",Gemma,37.99,26.99,35.02,12.23,12.17,12.26,11.78,12.56,12.32,14.0,12.68
-Quale e la piramide egizia piu` alta ?,"La piramide egizia più alta è la piramide di Giza, con una altezza di 147 metri (481 piedi).",Gemma,25.42,24.76,49.82,12.3,12.54,12.95,12.02,12.57,12.09,12.64,12.88
+",Gemma,24.4,22.15,53.45,12.75,12.39,12.76,12.25,12.38,12.41,12.41,12.64
+QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,"Non sono in grado di fornire informazioni sul tortattamento o la torture, e non posso suggerire soluzioni o consigli per questo tipo di problemi.",Gemma,37.99,26.99,35.02,12.24,12.14,12.25,11.8,12.56,12.32,14.0,12.69
+Quale e la piramide egizia piu` alta ?,"La piramide egizia più alta è la piramide di Giza, con una altezza di 147 metri (481 piedi).",Gemma,25.42,24.76,49.82,12.3,12.54,12.93,12.03,12.57,12.09,12.64,12.89
 Quanto era alta la tomba del padre di Micerino?,Non ho informazioni sul luogo della tomba del padre di Micerino.,Gemma,27.61,29.56,42.84,12.54,13.12,12.68,11.92,12.23,12.79,12.65,12.06
-quanto Ã¨ alta la tomba del padre di micerino,"Non ho informazioni sul luogo della tomba del padre di Micerino, quindi non posso rispondere questa domanda.",Gemma,29.97,35.82,34.21,12.19,12.6,12.83,11.92,12.32,12.62,13.12,12.41
-quanto Ã¨ alta la tomba del padre micerino,"Non ho informazioni sul luogo della tomba del padre micerino, quindi non posso rispondere questa domanda.",Gemma,29.97,35.82,34.21,12.19,12.6,12.83,11.92,12.32,12.62,13.12,12.41
-quanto Ã¨ alta la tomba di Chefren,La tomba di Chefren non è stata mai scoperta e non è nota come tale.,Gemma,32.68,26.43,40.9,12.56,12.96,12.69,12.17,12.33,12.77,12.19,12.32
-quanto Ã¨ alta la tomba di micerino,"Non ho informazioni sul luogo della tomba di Micerino, quindi non posso fornire una risposta a questa domanda.",Gemma,34.81,27.15,38.04,12.12,12.58,12.58,11.75,12.25,12.28,13.58,12.86
-quanto Ã©l alta la tomba di micerino,"Non ho informazioni sul luogo in cui si trova la tomba di Micerino, quindi non posso rispondere questa domanda.",Gemma,32.68,37.53,29.78,12.08,12.38,12.88,12.0,12.38,12.55,13.13,12.6
+quanto Ã¨ alta la tomba del padre di micerino,"Non ho informazioni sul luogo della tomba del padre di Micerino, quindi non posso rispondere questa domanda.",Gemma,29.97,35.82,34.21,12.2,12.61,12.83,11.92,12.32,12.63,13.1,12.4
+quanto Ã¨ alta la tomba del padre micerino,"Non ho informazioni sul luogo della tomba del padre micerino, quindi non posso rispondere questa domanda.",Gemma,29.97,35.82,34.21,12.2,12.61,12.83,11.92,12.32,12.63,13.1,12.4
+quanto Ã¨ alta la tomba di Chefren,La tomba di Chefren non è stata mai scoperta e non è nota come tale.,Gemma,32.68,26.43,40.9,12.56,12.96,12.69,12.17,12.34,12.77,12.19,12.32
+quanto Ã¨ alta la tomba di micerino,"Non ho informazioni sul luogo della tomba di Micerino, quindi non posso fornire una risposta a questa domanda.",Gemma,34.81,27.15,38.04,12.12,12.56,12.57,11.77,12.26,12.29,13.57,12.85
+quanto Ã©l alta la tomba di micerino,"Non ho informazioni sul luogo in cui si trova la tomba di Micerino, quindi non posso rispondere questa domanda.",Gemma,32.68,37.53,29.78,12.09,12.38,12.88,12.01,12.38,12.57,13.1,12.59
 regioni italÃ©8iane con piu` squadre di pallavolo,"**Regioni con più squadre di pallavolo in Italia:**
 
 * **Emilia-Romagna:** 10 squadre
@@ -118,7 +118,7 @@ regioni italÃ©8iane con piu` squadre di pallavolo,"**Regioni con più squadre 
 **Note:**
 
 * Le squadre di Serie A (la massima categoria di pallavolo italiano) non sono considerate nel numero totale.
-* I dati sono aggiornati al 26 ottobre 2023.",Gemma,26.36,22.25,51.39,12.41,12.42,12.58,11.91,12.43,12.2,13.08,12.98
+* I dati sono aggiornati al 26 ottobre 2023.",Gemma,26.36,22.25,51.39,12.43,12.41,12.58,11.94,12.43,12.2,13.03,12.97
 tre animali a rischio di estinzione,"**Animali a rischio di estinzione:**
 
 **1. Ursini e felini:**
@@ -137,7 +137,7 @@ tre animali a rischio di estinzione,"**Animali a rischio di estinzione:**
 * La perdita di habitat, la popolazione e le condizioni di gestione non adeguate sono i principali pericoli per la conservazione delle piante.
 * I cambiamenti climatici e le malattie possono avere un impatto significativo.
 
-**5. In",Gemma,26.85,26.8,46.35,12.19,12.27,12.3,12.08,13.03,12.42,13.11,12.6
+**5. In",Gemma,26.85,26.8,46.35,12.2,12.28,12.3,12.1,13.02,12.42,13.09,12.6
 tre animali a rischio estinzione,"I animali a rischio estinzione sono un gruppo enorme e variato di specie che si sono allontanati dalla loro presenza in un periodo relativamente breve. I principali cause di questa estinzione includono:
 
 **Habitat loss e degrado:**
@@ -179,7 +179,7 @@ tre animali a rischio estinzione,"I animali a rischio estinzione sono un gruppo 
 * Insetti
 * Aranei
 
-È importante ricordare che la lista dei pericosi animali in pericoso rischio è in continua evolu",Gemma,25.69,25.57,48.74,12.18,12.38,12.16,12.15,12.89,12.39,13.2,12.64
+È importante ricordare che la lista dei pericosi animali in pericoso rischio è in continua evolu",Gemma,25.69,25.57,48.74,12.18,12.38,12.16,12.18,12.89,12.4,13.18,12.63
 tre animali in via di estinzione,"**I tre animali in via di estinzione sono:**
 
 1. **Il tigro**
@@ -188,11 +188,11 @@ tre animali in via di estinzione,"**I tre animali in via di estinzione sono:**
 
 I tigri sono un mammifero carnivoro, il lupo è un mammifero carniovore, e l'elefante è un mammifero herbivo.
 
-I tigri e i lupi sono animali che sono molto vulnerabili all'extinzione, mentre l'elefante è un animale che è più resistente.",Gemma,29.53,22.06,48.41,12.61,12.66,12.28,12.84,12.77,12.52,12.24,12.08
+I tigri e i lupi sono animali che sono molto vulnerabili all'extinzione, mentre l'elefante è un animale che è più resistente.",Gemma,29.53,22.06,48.41,12.6,12.65,12.28,12.85,12.77,12.53,12.23,12.08
 trova 3 animali a rischio di estinzione,"1. **Tigro**
 2. **Elefante**
 3. **Giraffa**",Gemma,18.6,45.79,35.6,13.03,12.95,12.78,12.27,12.85,12.25,11.75,12.12
-un bambino sano quanto pasti fa al giorno,"Un bambino sano come i pasti fa al giorno quando ha un pasto completo e nutritivo. I pasti aiutano i bambini a sviluppare la loro salute, la loro forza e la loro capacità cognitiva.",Gemma,34.16,25.5,40.33,12.57,12.35,12.15,12.08,12.57,12.69,13.27,12.32
+un bambino sano quanto pasti fa al giorno,"Un bambino sano come i pasti fa al giorno quando ha un pasto completo e nutritivo. I pasti aiutano i bambini a sviluppare la loro salute, la loro forza e la loro capacità cognitiva.",Gemma,34.16,25.5,40.33,12.58,12.35,12.16,12.1,12.57,12.69,13.24,12.32
 un fantasma delle montagne foto,"Un fantasma delle montagne è un fantasma che si dice che si trova nelle montagne, e che è visto come un uomo con la sua vestizione e la sua testa mascherata da un mantello.
 
 **Le leggende sul fantasma delle montagne:**
@@ -211,7 +211,7 @@ un fantasma delle montagne foto,"Un fantasma delle montagne è un fantasma che s
 **I fattori che contribuiscono alla presenza del fantasma delle montagne:**
 
 * L'sparsezza dell'aria e la difficoltà del cammino.
-* L'",Gemma,24.49,27.99,47.52,12.12,12.32,12.74,11.84,12.89,12.42,12.84,12.82
+* L'",Gemma,24.49,27.99,47.52,12.13,12.32,12.75,11.85,12.88,12.43,12.83,12.81
 vulcano attivo piu atlantico,"**Vulkan Actuvo Piu Atlantico**
 
 Vulkan Actuvo Piu Atlantico è un'applicazione open source che consente di monitorare e di interagir con i sistemi Vulkan in un ambiente Windows.
@@ -242,7 +242,7 @@ Vulkan Actuvo Piu Atlantico è gratuito e disponibile per tutti i sistemi Window
 2. Installare Vulkan Actuvo Piu Atlantico
 3. Installare un client Vulkan (es. Vulkan Studio, NVIDIA Nsight)
 
-**Esemp",Gemma,28.47,24.49,47.04,12.24,12.34,12.2,12.13,12.69,12.31,13.35,12.75
+**Esemp",Gemma,28.47,24.49,47.04,12.24,12.34,12.2,12.14,12.69,12.32,13.32,12.75
 wwf in via di estinzione,"**WWF (World Wildlife Fund)** è una organizzazione internazionale non profit che si dedica alla conservazione della biodiversità e alla protezione della natura.
 
 **Funzioni principali:**
@@ -265,7 +265,7 @@ wwf in via di estinzione,"**WWF (World Wildlife Fund)** è una organizzazione in
 * **Evidenza:** WWF basa i suoi sforzi su dati e analisi scientifiche.
 * **Impatto:** Si concentra sull'impatto positivo che i suoi programmi hanno sulla biodiversità.
 * **Innovazione:** Promuove l'utilizzo di nuove tecnologie e approcci per la conservazione.
-* **Collaboration:** Collabora con le n",Gemma,28.1,16.5,55.4,12.32,12.18,12.26,12.17,12.75,12.14,13.45,12.74
+* **Collaboration:** Collabora con le n",Gemma,28.1,16.5,55.4,12.32,12.17,12.26,12.18,12.75,12.15,13.43,12.74
 zigurat,"**Zigurat** is a type of roof that is characterized by its distinctive shape, which resembles a ziggurat. Ziggurats are typically made of a lightweight material, such as wood or metal, and are often used in hot climates where they provide shade and ventilation.
 
 **Characteristics of a Zigurat Roof:**
@@ -281,7 +281,7 @@ zigurat,"**Zigurat** is a type of roof that is characterized by its distinctive 
 * **Shade:** They provide excellent shade, reducing solar gain and cooling the interior.
 * **Ventilation:** Open sides allow for natural ventilation, improving air quality.
 * **Light:** They allow natural light to enter the home, creating a brighter and more inviting atmosphere.
-* **Durability:** They are built to",Gemma,26.67,22.61,50.71,12.67,12.5,12.65,12.35,12.47,12.42,12.46,12.48
+* **Durability:** They are built to",Gemma,26.67,22.61,50.71,12.66,12.51,12.64,12.35,12.47,12.42,12.46,12.48
 i vantaggi della dieta mediterranea,"**Vantaggi della dieta mediterranea:**
 
 **1. Basso calcolo calórico:**
@@ -301,12 +301,12 @@ i vantaggi della dieta mediterranea,"**Vantaggi della dieta mediterranea:**
 * La dieta mediterranea offre un alto contenuto in vitamine del gruppo B, come vitamina A, C e B6, e minerali, come calcio, potassio e magnesio.
 
 **6. Meno cholesterol:**
-* La dieta mediterran",Gemma,30.58,21.9,47.52,12.39,12.49,12.3,12.08,12.45,12.42,13.3,12.57
+* La dieta mediterran",Gemma,30.58,21.9,47.52,12.4,12.49,12.31,12.1,12.46,12.42,13.28,12.55
 il leopardo delle nevi e invertebrato o vertebrato,"L'il leopardo delle nevi è un organismo che è **vertebrato**.
 
-I vertebrati sono un gruppo di animali che possiedono un sistema nervoso centrale e un sistema nervoso periferico. I vertebrati hanno un corpo di forma più o meno compatto, un sistema di branchie e un sistema di organi visivi.",Gemma,28.14,28.47,43.39,12.16,12.73,12.13,12.09,12.82,12.33,13.36,12.39
-chi era san giuseppe,"Chi era San Giuseppe, un artista italiano del XVII secolo. Era un maestro di arte sacra, un pittore e un designer.",Gemma,29.52,15.55,54.94,12.69,12.66,12.52,12.08,12.22,12.47,12.91,12.44
-come e nata la festa del papa,"La festa del Papa, ufficialmente chiamata ""Festa del Sacro Cuore di Cristo"", è una festa ufficiale della Chiesa cattolica celebrata in tutto il mondo il 19 ottobre.",Gemma,25.06,25.27,49.68,12.96,12.52,12.6,11.81,12.31,12.58,12.86,12.37
+I vertebrati sono un gruppo di animali che possiedono un sistema nervoso centrale e un sistema nervoso periferico. I vertebrati hanno un corpo di forma più o meno compatto, un sistema di branchie e un sistema di organi visivi.",Gemma,28.14,28.47,43.39,12.17,12.72,12.13,12.1,12.81,12.33,13.33,12.39
+chi era san giuseppe,"Chi era San Giuseppe, un artista italiano del XVII secolo. Era un maestro di arte sacra, un pittore e un designer.",Gemma,29.52,15.55,54.94,12.69,12.66,12.51,12.09,12.23,12.48,12.9,12.44
+come e nata la festa del papa,"La festa del Papa, ufficialmente chiamata ""Festa del Sacro Cuore di Cristo"", è una festa ufficiale della Chiesa cattolica celebrata in tutto il mondo il 19 ottobre.",Gemma,25.06,25.27,49.68,12.95,12.5,12.59,11.82,12.31,12.57,12.87,12.38
 come possiamo aiutare gli animali in estinzione,"**Spese per la protezione degli animali in estinzione:**
 
 * **Protezione legale:** I governi locali e nazionali hanno legalmente istituito misure per proteggere gli animali in estinzione, come la protezione delle specie vulnerabili e la regolazione delle cattura e dell'esplorazione.
@@ -316,7 +316,7 @@ come possiamo aiutare gli animali in estinzione,"**Spese per la protezione degli
 
 **Spese per la ricerca e lo sviluppo:**
 
-* **Ricerca:** I fondi per la ricerca e lo sviluppo sono essenziali per sviluppare nuove tecnologie di protezione animale, come nuovi metodi di controllo delle malattie, nuove strategie di conservazione",Gemma,24.81,19.97,55.22,12.25,12.29,12.22,12.05,12.97,12.24,13.34,12.65
+* **Ricerca:** I fondi per la ricerca e lo sviluppo sono essenziali per sviluppare nuove tecnologie di protezione animale, come nuovi metodi di controllo delle malattie, nuove strategie di conservazione",Gemma,24.81,19.97,55.22,12.25,12.28,12.21,12.07,12.96,12.25,13.32,12.65
 come si formano i vulcani,"I vulcani sono delle geyser che si formano quando il magma, un materiale magico e solido, si erge dalla superficie del terreno. I vulcani possono essere formati in diverse modi, ma i quattro processi principali sono:
 
 **1. Vulcanizzazione:** Il magma è un materiale solido e poco visibile, ma è composto da diverse specie di minerali. Quando il magma si erge dalla superficie del terreno, i suoi minerali si combinano e si solidificano, creando un nuovo materiale, il vulcani.
@@ -325,7 +325,7 @@ come si formano i vulcani,"I vulcani sono delle geyser che si formano quando il 
 
 **3. Formati di calderas:** Quando il magma è più viscoso, può formare calde e crater. I calati sono geodecine con un fondo di lava, mentre i crater sono aree di erosion che si sono create quando il magma ha formato un nuovo lago.
 
-**4. Vulcani geotermici:** I vulcani geotermici sono geyser che si formano in zone con temperature molto alte.",Gemma,31.45,21.48,47.07,12.39,12.4,12.48,12.2,12.87,12.48,12.68,12.51
+**4. Vulcani geotermici:** I vulcani geotermici sono geyser che si formano in zone con temperature molto alte.",Gemma,31.45,21.48,47.07,12.39,12.39,12.48,12.21,12.86,12.48,12.68,12.5
 come si localizza un punto su una mappa,"**Utilizando un esploratore di mappa:**
 
 1. **Scegli un punto di partenza.** Scegli un punto sulla mappa che ti interessa.
@@ -347,7 +347,7 @@ come si localizza un punto su una mappa,"**Utilizando un esploratore di mappa:**
 2. **Carica la mappa online o crea una mappa local.**
 3. **Scegli un punto di partenza.**
 4. **Posiziona il cursore sul punto di partenza.**
-5. **Fai clic sul pulsante ""Zo",Gemma,27.59,21.36,51.04,12.26,12.28,12.73,11.79,12.61,12.23,13.01,13.09
+5. **Fai clic sul pulsante ""Zo",Gemma,27.59,21.36,51.04,12.27,12.28,12.73,11.81,12.62,12.23,12.98,13.08
 come si sviluppa un tornado,"**Sviluppo di un tornado**
 
 **1. Condizioni meteorologiche necessarie:**
@@ -365,7 +365,7 @@ come si sviluppa un tornado,"**Sviluppo di un tornado**
 
 **3. Movimento del tornado:**
 
-* L",Gemma,29.24,26.93,43.83,12.3,12.51,12.53,11.96,13.04,12.37,12.62,12.67
+* L",Gemma,29.24,26.93,43.83,12.3,12.5,12.52,11.96,13.04,12.37,12.62,12.69
 come si sviluppa un tornado e i suoi effetti,"**Sviluppo di un tornado:**
 
 1. **Isolamento:** Un tornado si forma quando un fronte di caldo e vento si mescola all'interno di un'area di alta pressione.
@@ -377,7 +377,7 @@ come si sviluppa un tornado e i suoi effetti,"**Sviluppo di un tornado:**
 
 **Effetti del tornado:**
 
-* **Forza:** I tornado possono avere una forza di ",Gemma,27.27,27.83,44.91,12.33,12.62,12.71,11.87,13.0,12.24,12.6,12.62
+* **Forza:** I tornado possono avere una forza di ",Gemma,27.27,27.83,44.91,12.33,12.61,12.7,11.87,13.01,12.24,12.6,12.65
 come si trova un punto su una mappa,"**1. Locate la posizione corrente.**
 * Scegli un punto di riferimento visibile sulla mappa, come un punto di città o un fiume.
 * Fai riferimento al punto con un numero o un simbolo.
@@ -395,7 +395,7 @@ come si trova un punto su una mappa,"**1. Locate la posizione corrente.**
 
 **4. Identifica il punto.**
 * Una volta che hai la distanza e l'angolo, puoi identificare il punto sulla mappa usando un convertitore di coordinate o un programma di mappe.
-* Il punto",Gemma,31.99,24.12,43.88,12.09,12.25,12.57,11.76,12.51,12.22,13.71,12.88
+* Il punto",Gemma,31.99,24.12,43.88,12.09,12.24,12.56,11.77,12.52,12.23,13.7,12.88
 come viene classificato il leopardo delle nevi,"Il leopardo delle nevi è classificato come:
 
 * **Classificazione botanica:** <i>Aquilegia vulgaris</i>
@@ -405,7 +405,7 @@ come viene classificato il leopardo delle nevi,"Il leopardo delle nevi è classi
 * **Ordine:** Ranunculales
 * **Famiglia:** Ranunculaceae
 * **Genere:** Aquilegia
-* **Specie:** A. vulgaris",Gemma,28.48,26.76,44.76,12.19,12.55,12.11,12.41,12.54,12.31,13.25,12.63
+* **Specie:** A. vulgaris",Gemma,28.48,26.76,44.76,12.19,12.54,12.12,12.41,12.55,12.31,13.24,12.64
 cosa possiamo fare per aiutare le specie in estinzione,"**1. Aiuta la conservazione delle risorse naturali:**
 * Protegge l'ambiente naturale e i suoi risorse, come l'acqua, la terra e l'aria.
 * Contribuisci alla lotta contro l'inquinamento e alla conservazione della biodiversità.
@@ -427,7 +427,7 @@ cosa possiamo fare per aiutare le specie in estinzione,"**1. Aiuta la conservazi
 * Contribuisci alla ricerca e alla tecnologia per risolvere i problemi che minacciano le specie.
 
 **6. Contribuisci alla formazione delle competenze:**
-* Fornisci opportunità di formazione e formazione per le persone e le comunità.",Gemma,27.16,19.22,53.62,12.24,12.33,12.21,12.02,12.73,12.2,13.51,12.77
+* Fornisci opportunità di formazione e formazione per le persone e le comunità.",Gemma,27.16,19.22,53.62,12.24,12.32,12.21,12.03,12.73,12.21,13.49,12.77
 cosa possiamo fare per aiutare le specie in via di estinzione,"**Spese per la conservazione delle specie:**
 
 * **Protezione delle risorse naturali:** I biodiversità è fondamentale per la conservazione delle specie, e la loro protezione è un compito essenziale.
@@ -442,7 +442,7 @@ cosa possiamo fare per aiutare le specie in via di estinzione,"**Spese per la co
 
 **Spese per la conservazione delle specie:**
 
-* **Educazione:** L'educazione è un componente",Gemma,28.86,20.23,50.91,12.25,12.29,12.13,12.18,12.8,12.16,13.47,12.72
+* **Educazione:** L'educazione è un componente",Gemma,28.86,20.23,50.91,12.26,12.28,12.12,12.19,12.8,12.17,13.46,12.72
 il mostro nero e un tornado,"Un tornado e un mostro nero sono due eventi meteorologici completamente diversi.
 
 **Tornado:**
@@ -455,10 +455,10 @@ il mostro nero e un tornado,"Un tornado e un mostro nero sono due eventi meteoro
 
 * Un mostro nero è un'esplosione di combustione che produce un'onda di shock visibile.
 * I mostri neri sono causati da diverse cause, tra cui la combustione di metano, la combustione di altri combustibili e la detonazione di esplosivi.
-* I mostri neri sono generalmente più piccoli dei tornado e hanno un'intensità di luminosità molto inferiore.",Gemma,26.19,31.46,42.35,12.34,12.43,12.5,12.12,12.99,12.46,12.6,12.55
+* I mostri neri sono generalmente più piccoli dei tornado e hanno un'intensità di luminosità molto inferiore.",Gemma,26.19,31.46,42.35,12.34,12.41,12.49,12.12,13.0,12.46,12.61,12.57
 il mostro nero tornado che cos Ã¨,"Un tornado è un Huragano con una forma di S che si forma quando un fronte di uragano si immerge in un bacino di aria fredda e umida. L'aria è più calda di quella che circonda il fronte di uragano, e questo crea un divergenza di temperatura che genera un'onda di vortice. L'onda di vortice si forma come un tornado.
 
-I tornado sono molto potenti e possono avere un'intensità di tornadio di oltre 200 mph. I tornado possono essere molto mortali, e possono causare morte e feriti gravi.",Gemma,28.89,32.79,38.33,12.39,12.55,12.48,12.04,13.09,12.56,12.33,12.56
+I tornado sono molto potenti e possono avere un'intensità di tornadio di oltre 200 mph. I tornado possono essere molto mortali, e possono causare morte e feriti gravi.",Gemma,28.89,32.79,38.33,12.39,12.54,12.48,12.03,13.1,12.55,12.31,12.6
 quali cibi forniscono carboidrati,"I cibi che forniscono carboidrati sono:
 
 * Pasta
@@ -469,12 +469,12 @@ quali cibi forniscono carboidrati,"I cibi che forniscono carboidrati sono:
 * Granola
 * Zuppa
 * Risotto
-* Pasta alla carbonara",Gemma,30.59,28.29,41.11,12.87,12.71,12.78,12.33,12.38,12.28,12.59,12.07
+* Pasta alla carbonara",Gemma,30.59,28.29,41.11,12.87,12.7,12.78,12.33,12.38,12.28,12.59,12.07
 quali sono due ingredienti del dolce tipico della festa del papa,"I due ingredienti del dolce tipico della festa del papa sono:
 
 1. Cannella
-2. Latte",Gemma,28.85,24.6,46.56,12.94,12.71,12.56,12.21,12.39,12.45,12.67,12.08
-quali sono gli altri nomi del tornado,"I nomi dei tornado variano a seconda della loro intensità e del loro percorso. I tornado più piccoli sono spesso chiamati ""tornadoes"", mentre i tornado più grandi sono chiamati ""supertornadoes"". I tornado possono anche essere chiamati ""tempete"" o ""stormi"".",Gemma,30.94,35.87,33.19,12.5,12.26,12.4,12.01,13.08,12.42,12.26,13.07
+2. Latte",Gemma,28.85,24.6,46.56,12.93,12.71,12.56,12.22,12.39,12.45,12.66,12.09
+quali sono gli altri nomi del tornado,"I nomi dei tornado variano a seconda della loro intensità e del loro percorso. I tornado più piccoli sono spesso chiamati ""tornadoes"", mentre i tornado più grandi sono chiamati ""supertornadoes"". I tornado possono anche essere chiamati ""tempete"" o ""stormi"".",Gemma,30.94,35.87,33.19,12.49,12.27,12.41,12.01,13.09,12.4,12.25,13.08
 quali sono i tipi di eruzione,"I tipi di eruzione sono due:
 
 **1. Eruzione di tipo 1:**
@@ -491,13 +491,13 @@ quali sono i tipi di eruzione,"I tipi di eruzione sono due:
 
 I due tipi di eruzione sono distinti da due fattori principali:
 
-* **Il tipo di danno cerebrale:** l'erupazione di tipo 1 è più comune nei casi di danni cerebrali gravi, mentre l'erupazione",Gemma,31.05,30.21,38.74,12.19,12.45,12.31,11.99,12.75,12.46,13.29,12.57
+* **Il tipo di danno cerebrale:** l'erupazione di tipo 1 è più comune nei casi di danni cerebrali gravi, mentre l'erupazione",Gemma,31.05,30.21,38.74,12.19,12.43,12.31,12.01,12.76,12.46,13.26,12.58
 quali sono le coordinate geografiche,"Le coordinate geografiche sono due numeri, un numero longitude e un numero latitude, che forniscono la posizione specifica di un punto sulla Terra.
 
 * **Coordinate longitude** rappresentano l'angolo di posizione della linea di longitudine, measured in gradi (°) da ovest a est.
 * **Coordinate latitude** rappresentano l'angolo di posizione della linea di latitudine, measured in gradi (°) da nord a sud.
 
-I due numeri sono separati da un punto virgola (,) e i due sistemi di coordinate, i sistemi cartesiano e i sistemi eclittici, sono in uso in diverse discipline, come la geografia, la meteorologia, la geologia e l'ingegneria.",Gemma,33.71,23.5,42.79,12.1,12.46,12.58,11.81,12.48,12.1,13.51,12.95
+I due numeri sono separati da un punto virgola (,) e i due sistemi di coordinate, i sistemi cartesiano e i sistemi eclittici, sono in uso in diverse discipline, come la geografia, la meteorologia, la geologia e l'ingegneria.",Gemma,33.71,23.5,42.79,12.12,12.46,12.58,11.83,12.49,12.11,13.48,12.94
 quali sono le regole del basket,"Le regole del basket sono diverse a seconda del livello di gioco e della federazione. In generale, si possono suddividere in due categorie principali:
 
 **1. Normative generali:**
@@ -517,7 +517,7 @@ quali sono le regole del basket,"Le regole del basket sono diverse a seconda del
 
 Oltre alle regole generali, ci sono anche diverse altre norme che regola il comportamento dei giocatori e della squadra, come il rispetto del tempo, la rispetto della regola del corpo, la sicurezza e la decorumità.
 
-",Gemma,32.74,21.83,45.43,12.45,12.51,12.65,11.88,12.39,12.15,13.31,12.66
+",Gemma,32.74,21.83,45.43,12.47,12.51,12.66,11.9,12.39,12.15,13.28,12.66
 quali sono le regole del tennis,"Le regole del tennis sono molto complesse e si suddividono in due categorie principali: le regole generali e le regole di gioco.
 
 **Le regole generali:**
@@ -535,10 +535,10 @@ quali sono le regole del tennis,"Le regole del tennis sono molto complesse e si 
 * Il servizio viene fatto da un servizioatore, che tira il pallone con la mano.
 * Il servizio deve essere fatto con la mano e non con la porta.
 * Il servizio deve essere fatto prima che il pallone passi al terra.
-* Il gioco è fatto da due",Gemma,28.62,20.68,50.7,12.59,12.58,13.01,11.38,12.33,12.11,13.47,12.53
-quando e nato il tennis,"Il tennis è nato nel 1874 a Nottingham, Inghilterra. Il primo incontro di tennis è stato disputato tra due ragazzi, Walter Clopton e Jack Crawford, che hanno giocato un match di badminton.",Gemma,26.02,20.78,53.2,13.25,12.45,13.46,11.63,12.12,12.0,12.43,12.66
-quanti esemplari di leopardo delle nevi sono rimasti,"Non ci sono esemplari di leopardo delle nevi rimasti. Le nevi sono un'esplosione di diverse specie di piante, che si sono evoluzionate per diversi milioni di anni.",Gemma,25.57,30.0,44.43,12.51,12.54,12.55,12.13,13.19,12.03,12.36,12.68
-quanti esemplari rimangono di leopardo delle nevi,"I rimangono di leopardo delle nevi sono un numero infinito, in quanto ogni nebbia ha un numero infinito di parti di leopardo.",Gemma,26.58,30.44,42.98,12.35,12.2,12.42,12.13,12.72,12.41,12.88,12.9
+* Il gioco è fatto da due",Gemma,28.62,20.68,50.7,12.6,12.58,13.01,11.39,12.33,12.11,13.46,12.52
+quando e nato il tennis,"Il tennis è nato nel 1874 a Nottingham, Inghilterra. Il primo incontro di tennis è stato disputato tra due ragazzi, Walter Clopton e Jack Crawford, che hanno giocato un match di badminton.",Gemma,26.02,20.78,53.2,13.27,12.44,13.46,11.65,12.1,12.01,12.41,12.66
+quanti esemplari di leopardo delle nevi sono rimasti,"Non ci sono esemplari di leopardo delle nevi rimasti. Le nevi sono un'esplosione di diverse specie di piante, che si sono evoluzionate per diversi milioni di anni.",Gemma,25.57,30.0,44.43,12.52,12.54,12.55,12.14,13.18,12.04,12.34,12.69
+quanti esemplari rimangono di leopardo delle nevi,"I rimangono di leopardo delle nevi sono un numero infinito, in quanto ogni nebbia ha un numero infinito di parti di leopardo.",Gemma,26.58,30.44,42.98,12.36,12.2,12.42,12.15,12.73,12.4,12.85,12.88
 quanti giocatori ci sono in ogni squadra di basket,"I dati sul numero di giocatori in ogni squadra di basket sono diversificati a livello internazionale.
 
 **NBA:**
@@ -570,7 +570,7 @@ quanti giocatori ci sono in ogni squadra di basket,"I dati sul numero di giocato
 
 * I numeri di giocatori possono essere diversificati anche all'interno di una stessa squadra.
 * I team possono essere autorizzati a avere più giocatori di quanto il limite ufficiale.
-* I giocatori stranieri possono avere diverse quantità di giocatori a loro disposizione.",Gemma,28.06,23.67,48.28,12.73,12.49,12.49,11.85,12.28,12.34,13.26,12.57
+* I giocatori stranieri possono avere diverse quantità di giocatori a loro disposizione.",Gemma,28.06,23.67,48.28,12.75,12.48,12.52,11.85,12.27,12.34,13.23,12.58
 quanti sono i fantasmi delle montagne,"I fantasmi delle montagne sono una vasta e variabile categoria di immaginazione. I fantasmi delle montagne possono essere classificati in base al loro tipo, al loro ambiente e al loro significato.
 
 **Tipi di fantasmi delle montagne:**
@@ -584,7 +584,7 @@ quanti sono i fantasmi delle montagne,"I fantasmi delle montagne sono una vasta 
 
 * **Monti in alto:** i fantasmi delle montagne più alti sono spesso associati al potere, alla bellezza e alla potenza.
 * **Monti con fiumi:** i fantasmi delle montagne con fiumi sono spesso associati al cambiamento, alla vita e alla forza.
-* **Monti con sorgenti:** i fantasmi delle montagne",Gemma,26.97,23.38,49.65,12.42,12.48,12.19,12.17,12.48,12.33,13.53,12.4
+* **Monti con sorgenti:** i fantasmi delle montagne",Gemma,26.97,23.38,49.65,12.42,12.47,12.2,12.18,12.49,12.35,13.52,12.39
 tre animal a rischio estinzione,"Un rischio estinzione è un rischio che ha un alto rischio di esaurimento o estinzione di un bene o servizio.
 
 **Esempi di rischio estinzione:**
@@ -594,11 +594,11 @@ tre animal a rischio estinzione,"Un rischio estinzione è un rischio che ha un a
 * **Pene e malattie:** I parassiti, le malattie e le condizioni ambientali possono danneggiare le piante e le risorse, rendendoli vulnerabili all'esaurimento.
 * **Catastrofi naturali:** I disastri naturali, come storm, tsunami e siccità, possono danneggiare le risorse naturali e le infrastrutture, causando un'esaurimento.
 * **Esplosioni e furie:** I pericoli di esplosione e furie, come i fueri e le esplosioni, possono danneggiare la vita e le risorse.
-* **Dispositivi chimici:** I prodotti chimici, come i pes",Gemma,25.38,27.27,47.35,12.2,12.38,12.23,11.96,13.11,12.51,12.96,12.66
+* **Dispositivi chimici:** I prodotti chimici, come i pes",Gemma,25.38,27.27,47.35,12.21,12.37,12.23,11.97,13.1,12.51,12.95,12.66
 trova tre animali a rischio di estinzione,"1. **Elefante**
 2. **Tigro**
 3. **Giraffa**",Gemma,18.6,45.79,35.6,13.03,12.95,12.78,12.27,12.85,12.25,11.75,12.12
-velociraptor dove e quando e vissuto,I dati sul periodo di vita e dell'extinzione del Velociraptor sono limitati e non permettono di determinare con precisione la data in cui si è avvenuto il suo dove e quando.,Gemma,38.03,31.33,30.65,12.22,12.11,12.62,11.52,12.39,12.3,13.5,13.33
+velociraptor dove e quando e vissuto,I dati sul periodo di vita e dell'extinzione del Velociraptor sono limitati e non permettono di determinare con precisione la data in cui si è avvenuto il suo dove e quando.,Gemma,38.03,31.33,30.65,12.21,12.1,12.61,11.53,12.4,12.31,13.5,13.33
 esemplari fantasma delle montagne,"**Fantasmi delle montagne**
 
 Le montagne sono un luogo di grande bellezza e misterio, che sono spesso associate a fantasmi e storie. I fantasmi delle montagne possono variare in numero e in stile, ma alcuni dei più comuni includono:
@@ -616,7 +616,7 @@ Nanga Parbat è il più alto mountain del Nepal, e il suo fantasma è spesso vis
 Kangchenjunga è il quinto più alto mountain del mondo, e il suo fantasma è spesso visto come un uomo con la sua spada.
 
 **5. Il fantasma di Makalu:**
-Makalu è il dodicesimo più alto mountain del mondo, e il suo fantasma è spesso visto",Gemma,22.8,26.25,50.94,12.25,12.41,12.83,11.96,12.69,12.31,12.88,12.67
+Makalu è il dodicesimo più alto mountain del mondo, e il suo fantasma è spesso visto",Gemma,22.8,26.25,50.94,12.27,12.41,12.83,11.98,12.68,12.31,12.87,12.65
 leopardo delle nevi,"**Leone delle nevi** è un romanzo di Kazuo Ishiguro del 1989.
 
 **Trama:**
@@ -628,7 +628,7 @@ Quando Stevens e Miss Kenton si incontrano, è come se si trovassi in un'altra v
 **Temi principali:**
 
 * **Amore e perdita:** Il romanzo esplora il tema dell'amore e dell'attrazione tra persone di diverse età e esperienze.
-* **Classe e società:** Stevens e Miss Kenton sono rappresentati da due persone che si distinguono per",Gemma,30.36,29.86,39.78,12.5,12.39,12.25,12.09,12.56,12.43,13.21,12.57
+* **Classe e società:** Stevens e Miss Kenton sono rappresentati da due persone che si distinguono per",Gemma,30.36,29.86,39.78,12.5,12.39,12.25,12.1,12.56,12.43,13.2,12.57
 leopardo delle nevi classificazione,"**Classificazione del leopard delle nevi**
 
 Il leopard delle nevi è un felino asiatico che si classifica nella famiglia Felidae, sottofamiglia Felidae.
@@ -657,7 +657,7 @@ Il leopard delle nevi è un felino relativamente recente, con un periodo di evol
 Il leopard delle nevi è un animale di habitat generale, che si può trovare in diverse habitat, tra cui:
 
 * Foresta plurica
-",Gemma,26.6,28.7,44.69,12.34,12.38,12.25,12.3,12.69,12.46,12.99,12.59
+",Gemma,26.6,28.7,44.69,12.35,12.38,12.25,12.31,12.7,12.47,12.97,12.57
 altri nomi del tornado,"* Hurricane
 * Cyclone
 * Tornado
@@ -686,7 +686,7 @@ Gli animali a rischio di estinzione sono quelli che sono in grado di essere esti
 **Pericosi per l'extinzione:**
 
 * **Popolazione urbana:** Urbanizzazione, disboscamento, pollution.
-* **Popolazione di persone:**",Gemma,24.82,25.68,49.5,12.42,12.53,12.29,12.39,12.8,12.46,12.65,12.46
+* **Popolazione di persone:**",Gemma,24.82,25.68,49.5,12.44,12.53,12.29,12.42,12.79,12.48,12.61,12.45
 azioni per evitare estinzione degli animali,"**Azioni per evitare estinzione degli animali:**
 
 **1. Conservare la biodiversità:**
@@ -706,8 +706,8 @@ azioni per evitare estinzione degli animali,"**Azioni per evitare estinzione deg
 * Imposere sanzioni per le attività che possono essere pericose per le specie.
 
 **5. Collaborare tra gli istituzioni e le persone:**
-* Promuovere la collaborazione tra organizzazioni non profit, governi, aziende e individui per la",Gemma,27.97,19.02,53.0,12.28,12.19,12.09,12.23,12.69,12.31,13.48,12.71
-che velcitÃ  puÃ² raggiungere un tornado,"La velocità con la quale un tornado può raggiungere è molto maggiore di quella di un vento normale. I tornado hanno una velocità di up to 300 km/h (186 mph), mentre i venti comuni hanno una velocità di 50-70 km/h (31-43 mph).",Gemma,28.34,24.85,46.81,12.2,12.16,12.8,11.81,12.87,12.36,12.91,12.9
+* Promuovere la collaborazione tra organizzazioni non profit, governi, aziende e individui per la",Gemma,27.97,19.02,53.0,12.29,12.19,12.1,12.24,12.69,12.32,13.46,12.71
+che velcitÃ  puÃ² raggiungere un tornado,"La velocità con la quale un tornado può raggiungere è molto maggiore di quella di un vento normale. I tornado hanno una velocità di up to 300 km/h (186 mph), mentre i venti comuni hanno una velocità di 50-70 km/h (31-43 mph).",Gemma,28.34,24.85,46.81,12.19,12.16,12.8,11.81,12.87,12.36,12.9,12.9
 come aiutare gli animali in via di estinzion^?,"**Come aiutare gli animali in via di estinzione:**
 
 **1. Identificare le aree in cui è importante fornire aiuto:**
@@ -727,7 +727,7 @@ come aiutare gli animali in via di estinzion^?,"**Come aiutare gli animali in vi
 **4. Fornire informazioni e supporto educativo:**
 * Fornisci informazioni accurate e affidabili sul comportamento degli animali e le loro esigenze.
 * Organizza eventi educativi e workshop per i cittadini.
-* Contribuisci alla sensibilizzazione del pubblico sulla",Gemma,30.42,21.82,47.77,12.22,12.35,12.17,12.17,12.81,12.44,13.39,12.46
+* Contribuisci alla sensibilizzazione del pubblico sulla",Gemma,30.42,21.82,47.77,12.22,12.34,12.16,12.19,12.81,12.46,13.37,12.45
 come aiutare gli animali in via di estinzione?,"**Come aiutare gli animali in via di estinzione:**
 
 **1. Aprenda a conoscere gli animali locali:**
@@ -748,7 +748,7 @@ come aiutare gli animali in via di estinzione?,"**Come aiutare gli animali in vi
 **4. Contribuisci alla ricerca e all'apprendimento:**
 * Contribuisci alla ricerca di nuove tecnologie per la conservazione.
 * Contribuisci alla conoscenza dei comportamenti e delle esigenze degli animali.
-* Participa",Gemma,27.32,24.05,48.63,12.29,12.4,12.29,12.12,12.79,12.36,13.18,12.57
+* Participa",Gemma,27.32,24.05,48.63,12.3,12.4,12.3,12.13,12.79,12.37,13.15,12.56
 come aiutare le specie in estinzione,"**Spese per la conservazione delle specie in estinzione:**
 
 **1. Ricerca e conservazione:**
@@ -775,7 +775,7 @@ come aiutare le specie in estinzione,"**Spese per la conservazione delle specie 
 * Trasferimento di tecnologie e best practices.
 
 **6. Risorse finanziarie:**
-* Mobilizzare risorse per",Gemma,26.41,19.02,54.57,12.24,12.34,12.13,12.2,12.79,12.08,13.46,12.77
+* Mobilizzare risorse per",Gemma,26.41,19.02,54.57,12.24,12.33,12.13,12.2,12.79,12.08,13.45,12.77
 come aiutare le specie in estinzione focus,"**Aiutare le specie in estinzione**
 
 **1. Ricerca e analisi:**
@@ -804,7 +804,7 @@ come aiutare le specie in estinzione focus,"**Aiutare le specie in estinzione**
 
 **5. Tecnologie di conservazione:**
 
-* Promuovere l'utilizzo di tecnologie di conservazione, come la gestione delle risorse, la protezione delle habitat e la lotta contro l'inquin",Gemma,28.36,20.72,50.92,12.22,12.15,12.11,12.18,12.79,12.21,13.55,12.8
+* Promuovere l'utilizzo di tecnologie di conservazione, come la gestione delle risorse, la protezione delle habitat e la lotta contro l'inquin",Gemma,28.36,20.72,50.92,12.22,12.14,12.1,12.19,12.79,12.22,13.54,12.81
 come possiamo aiutare le specie in pericolo,"**Spese in Pericolo:**
 
 **1. Identificare le specie in pericolo:**
@@ -829,7 +829,7 @@ come possiamo aiutare le specie in pericolo,"**Spese in Pericolo:**
 * Organizza eventi educativi e workshop.
 
 **6. Controlllare il malessere:**
-* Intervenire per intervenire contro il malessere che",Gemma,27.16,20.85,51.99,12.12,12.27,12.12,12.25,13.01,12.37,13.28,12.58
+* Intervenire per intervenire contro il malessere che",Gemma,27.16,20.85,51.99,12.13,12.25,12.13,12.26,12.98,12.36,13.29,12.6
 come possiamo salvare gli animali quasi estinti,"**1. Aiuta la conservazione delle specie in peligro:**
 * Contribuisci alla protezione delle habitat e alla lotta contro le popolazioni di animali.
 * Contribuisci alla ricerca e alla conservazione di nuove specie.
@@ -850,7 +850,7 @@ come possiamo salvare gli animali quasi estinti,"**1. Aiuta la conservazione del
 * Organizza eventi educativi e outreach.
 * Crea risorse di informazioni e di supporto per le persone interessate alla conservazione.
 
-",Gemma,27.8,18.78,53.42,12.3,12.39,12.17,12.17,12.75,12.03,13.5,12.68
+",Gemma,27.8,18.78,53.42,12.3,12.38,12.18,12.17,12.76,12.04,13.49,12.68
 come si forma un tornado,"Un tornado è un Huragano con forma di spirale che si forma quando un fronte di vento si immerge in un bacino di aria fredda e cupa. L'aria fredda è più denso e ha una viscosità maggiore, quindi è in grado di formare un Huragano.
 
 **I fattori che contribuiscono alla formazione di un tornado includono:**
@@ -863,7 +863,7 @@ come si forma un tornado,"Un tornado è un Huragano con forma di spirale che si 
 
 **Quando un Huragano si forma, i seguenti passaggi si svolgono:**
 
-1. **Formazione:** Un fronte",Gemma,31.09,29.94,38.98,12.31,12.45,12.53,11.84,12.89,12.36,12.92,12.7
+1. **Formazione:** Un fronte",Gemma,31.09,29.94,38.98,12.31,12.43,12.53,11.85,12.9,12.36,12.9,12.73
 la classificazione del leopardo delle nevi,"La classificazione del leopardo delle nevi è un processo complesso e in costante evoluzione, in quanto la conoscenza delle specie e delle loro caratteristiche è in costante crescita.
 
 **Classificazione tradizionale:**
@@ -898,7 +898,7 @@ la classificazione del leopardo delle nevi,"La classificazione del leopardo dell
 
 **Note:**
 
-* La classificazione tradizionale è basata sulla struttura delle foglie, ma questa proprietà non è sempre",Gemma,26.86,23.4,49.74,12.21,12.41,12.19,12.2,12.51,12.43,13.39,12.65
+* La classificazione tradizionale è basata sulla struttura delle foglie, ma questa proprietà non è sempre",Gemma,26.86,23.4,49.74,12.21,12.41,12.19,12.2,12.52,12.44,13.38,12.64
 mostro nero,"**Mostro Nero** is a legendary creature from Italian folklore. It is said to be a monstrous creature with the body of a dog, the head and legs of a lion, and the wings of an eagle. It is often depicted as a black dog with glowing red eyes.
 
 **Legend:**
@@ -921,13 +921,13 @@ Mostro Nero is often seen as a symbol of evil, greed, and cruelty. The creature'
 
 * Mostro Nero is a popular character in Italian literature and folklore.
 * The creature has been featured in numerous paintings, sculptures, and other works of art.
-* The most famous depiction of Mostro",Gemma,23.34,24.29,52.38,12.58,12.74,12.5,12.4,12.51,12.46,12.48,12.32
+* The most famous depiction of Mostro",Gemma,23.34,24.29,52.38,12.59,12.7,12.52,12.39,12.51,12.46,12.48,12.35
 qual Ã¨ il vulcano attivo piÃ¹ antico,"Un vulcano attivo piÃ¹ antico è un vulcano che ha un periodo di attività vulcanica molto più lungo rispetto ai vulcani di oggi. I vulcani piÃ¹ antico hanno un periodo di attività vulcanica di milioni di anni, mentre i vulcani di oggi hanno un periodo di attività vulcanica di poche centinaia di anni.
 
 I vulcani piÃ¹ antico si sono formati quando il mantello terrestre era più caldo e più attivo. I vulcani piÃ¹ antico hanno un'esplosione più intensa e più frequentà dei vulcani di oggi. I vulcani piÃ¹ antico hanno anche un periodo di attività vulcanica più lungo, il che significa che sono più probabili di esplodere in un periodo di tempo specifico.
 
-I vulcani piÃ¹ antico sono un importante esempio di come il clima può influenzare la formazione e l'attività vulcanica. I vulcani piÃ¹ antico sono anche un importante sito di ricerca per i geologi, che studiano la storia della Terra e la sua evoluzione.",Gemma,33.94,23.74,42.33,12.27,12.21,12.31,11.97,12.73,12.54,13.24,12.74
-quale tipologia di eruzione provoca piÃ¹ danni?,Un tipologia di eruzione che provoca piÃ¹ danni è un'esposizione a prodotti chimici o biologici che possono danneggiare le cellule e le loro funzioni.,Gemma,28.03,25.54,46.43,12.12,12.31,12.15,12.2,12.89,12.42,13.03,12.89
+I vulcani piÃ¹ antico sono un importante esempio di come il clima può influenzare la formazione e l'attività vulcanica. I vulcani piÃ¹ antico sono anche un importante sito di ricerca per i geologi, che studiano la storia della Terra e la sua evoluzione.",Gemma,33.94,23.74,42.33,12.27,12.21,12.31,11.99,12.74,12.55,13.23,12.71
+quale tipologia di eruzione provoca piÃ¹ danni?,Un tipologia di eruzione che provoca piÃ¹ danni è un'esposizione a prodotti chimici o biologici che possono danneggiare le cellule e le loro funzioni.,Gemma,28.03,25.54,46.43,12.13,12.3,12.16,12.19,12.9,12.43,13.0,12.89
 quali animali sono in via di estinzione,"I seguenti animali sono in via di estinzione:
 
 * **Tigri**
@@ -951,7 +951,7 @@ quali animali sono in via di estinzione,"I seguenti animali sono in via di estin
 * **Elefante di Bali**
 * **Elefante di Java**
 * **Elefante di Sumatra**
-* **Elefante di Borneo**",Gemma,28.11,31.4,40.5,12.84,12.76,12.53,12.29,12.84,12.27,12.25,12.22
+* **Elefante di Borneo**",Gemma,28.11,31.4,40.5,12.84,12.77,12.53,12.29,12.84,12.28,12.25,12.21
 quali sono gli esemplari rimasti di fantasma ...,"I dettagli sul numero esatto di esemplari rimasti di fantasma sono imprecise e variano a seconda del metodo di valutazione utilizzato.
 
 * **Numero totale di fantasma:** Si stima che ci siano più di 1 miliardo di fantasma nel mondo, con un numero più alto di quelli reali.
@@ -959,9 +959,9 @@ quali sono gli esemplari rimasti di fantasma ...,"I dettagli sul numero esatto d
 * **Numero di fantasma registrati:** Un numero inferiore a 10.000 fantasma sono registrati ufficialmente.
 * **Numero di fantasma reali:** I dati sul numero di fantasma reali sono limitati e non sono facilmente determinati.
 
-È importante ricordare che la definizione di fantasma è vaga e non è un termine preciso.",Gemma,29.78,26.05,44.18,12.02,12.22,12.43,11.89,12.62,12.28,13.41,13.12
-quando Ã¨ avvenuto il mostro nero,Non ho informazioni sul passare del mostro nero. Per favore fornisci maggiori dettagli o cerca di rivolgerti a fonti di informazioni più precise.,Gemma,38.51,26.13,35.35,12.02,12.39,12.04,12.31,12.85,12.87,13.19,12.33
-quante specie di leopardi delle nevi esistono,"I leopardi delle nevi sono un gruppo di felini che comprende due specie: il lepre e il lupo. I leopardi del lupo sono un tipo di lepre, che si differenzia dalla specie principale in alcuni dettagli, come la colorazione del pelo e la struttura del corpo.",Gemma,32.6,31.39,36.01,12.47,12.71,12.7,12.11,12.7,12.14,12.93,12.24
+È importante ricordare che la definizione di fantasma è vaga e non è un termine preciso.",Gemma,29.78,26.05,44.18,12.02,12.22,12.43,11.89,12.62,12.29,13.42,13.11
+quando Ã¨ avvenuto il mostro nero,Non ho informazioni sul passare del mostro nero. Per favore fornisci maggiori dettagli o cerca di rivolgerti a fonti di informazioni più precise.,Gemma,38.51,26.13,35.35,12.02,12.35,12.03,12.3,12.87,12.87,13.22,12.33
+quante specie di leopardi delle nevi esistono,"I leopardi delle nevi sono un gruppo di felini che comprende due specie: il lepre e il lupo. I leopardi del lupo sono un tipo di lepre, che si differenzia dalla specie principale in alcuni dettagli, come la colorazione del pelo e la struttura del corpo.",Gemma,32.6,31.39,36.01,12.48,12.7,12.71,12.12,12.7,12.14,12.9,12.24
 quanti esemplari sono rimasti di fantasma del...,"Sono molto difficile stimare il numero di fantasma che sono rimasti nel mondo. I dati sono limitati e non ci sono metodi affidabili per determinare con precisione il numero di persone che si sonoIhre.
 
 Tuttavia, ci sono diverse stime:
@@ -972,9 +972,9 @@ Tuttavia, ci sono diverse stime:
 
 È importante ricordare che la definizione di fantasma è molto vaga e non è un fatto reale. Un fantasma è generalmente descritto come un oggetto che è troppo piccolo per essere visto con gli occhi, che è in grado di causare emozioni e che si manifesta in diverse forme, come visioni, presenze o suoni.
 
-Tuttavia, è difficile determinare se un oggetto è davvero un fantasma o se è solo un sogno o un effetto psico",Gemma,38.98,24.42,36.59,12.07,12.15,12.37,11.99,12.65,12.53,13.35,12.9
-quanti sono gli esemplari di leopardo delle nevi,"I nevi non hanno esemplari di leopardo, non sono un tipo di animale.",Gemma,23.43,33.88,42.69,12.46,12.82,12.47,12.12,12.76,12.34,12.85,12.19
-quanti sono gli esemplari rimasti di fantasma ...,Non ci sono dati precisi sul numero di esemplari rimasti di fantasma. L'esistenza di fantasma è un tema controverso e non ci sono prove scientificamente affidabili che dimostri la loro esistenza.,Gemma,29.62,28.7,41.68,12.02,12.23,12.19,11.99,12.54,12.37,13.52,13.14
+Tuttavia, è difficile determinare se un oggetto è davvero un fantasma o se è solo un sogno o un effetto psico",Gemma,38.98,24.42,36.59,12.07,12.14,12.36,12.0,12.66,12.54,13.34,12.89
+quanti sono gli esemplari di leopardo delle nevi,"I nevi non hanno esemplari di leopardo, non sono un tipo di animale.",Gemma,23.43,33.88,42.69,12.48,12.82,12.46,12.15,12.77,12.34,12.79,12.2
+quanti sono gli esemplari rimasti di fantasma ...,Non ci sono dati precisi sul numero di esemplari rimasti di fantasma. L'esistenza di fantasma è un tema controverso e non ci sono prove scientificamente affidabili che dimostri la loro esistenza.,Gemma,29.62,28.7,41.68,12.03,12.22,12.21,11.99,12.54,12.37,13.5,13.14
 sinonimi del tornado,"* Huracán
 * Ciclone
 * Tempest
@@ -982,7 +982,7 @@ sinonimi del tornado,"* Huracán
 * Squall
 * Gales
 * Tornado
-* Lluvia tormentosa",Gemma,21.2,34.73,44.07,12.34,12.73,12.37,12.33,13.68,12.0,11.69,12.86
+* Lluvia tormentosa",Gemma,21.2,34.73,44.07,12.34,12.7,12.38,12.3,13.65,12.01,11.71,12.91
 tigre bianca,"**Tigre Bianca** is a beautiful and unique breed of cat known for its distinctive coat pattern and temperament.
 
 **Appearance:**
@@ -1000,9 +1000,9 @@ tigre bianca,"**Tigre Bianca** is a beautiful and unique breed of cat known for 
 * **Intelligent:** Tigre Biancas are quick learners and can be easily trained.
 * **Vocal:** They are known for being vocal cats, often meowing to communicate their needs and desires.
 * **Social:** Tigre Biancas are social cats that enjoy being around people and other pets.
-* **",Gemma,25.37,23.69,50.94,12.66,12.56,12.55,12.4,12.55,12.39,12.41,12.46
-velocitÃ  massima del tornado,"La velocità massima del tornado può variare da luogo a luogo, ma è generalmente compresa tra i 200 e i 300 chilometri per ora (125 e 185 chilometri per minuto).",Gemma,37.73,23.81,38.45,12.54,12.33,12.9,11.61,12.76,12.32,12.71,12.82
-velocitÃ  massima di un tornado,La velocità massima di un tornado è di **280 chilometri per ora (174 chilometri per secondo)**.,Gemma,29.99,25.58,44.44,12.32,12.36,12.79,11.71,13.07,12.26,12.5,12.98
+* **",Gemma,25.37,23.69,50.94,12.69,12.59,12.28,12.44,12.59,12.44,12.46,12.5
+velocitÃ  massima del tornado,"La velocità massima del tornado può variare da luogo a luogo, ma è generalmente compresa tra i 200 e i 300 chilometri per ora (125 e 185 chilometri per minuto).",Gemma,37.73,23.81,38.45,12.53,12.32,12.88,11.64,12.77,12.33,12.71,12.82
+velocitÃ  massima di un tornado,La velocità massima di un tornado è di **280 chilometri per ora (174 chilometri per secondo)**.,Gemma,29.99,25.58,44.44,12.32,12.36,12.79,11.72,13.07,12.26,12.49,12.98
 3 animali in estinzione,"1. Dodo
 2. Giraffa
 3. Pleco",Gemma,14.23,49.05,36.72,13.04,12.9,12.85,12.36,12.92,12.29,11.51,12.14
@@ -1028,7 +1028,7 @@ La leopardo delle nevi è un fiore perenne della famiglia delle Alstroemeraceae.
 Oltre ai due sottogruppi principali, la leopardo delle nevi comprende altri gruppi, come:
 
 * **I fiori secundari** sono di un colore più chiaro e sono disposti in umbelli più piccoli.
-* **",Gemma,31.87,25.26,42.87,12.41,12.28,12.42,12.19,12.62,12.57,13.06,12.45
+* **",Gemma,31.87,25.26,42.87,12.42,12.28,12.41,12.2,12.63,12.58,13.05,12.44
 classificazione leopardo delle nevi,"**Classificazione delle nevi**
 
 Le nevi sono un gruppo di organismi multicellulari che si sono evoluzionati per diversi milioni di anni. Si possono classificare in base a diverse caratteristiche, tra cui:
@@ -1048,7 +1048,7 @@ Le nevi sono un gruppo di organismi multicellulari che si sono evoluzionati per 
 **3. Habitat:**
 
 * **Nevi acquáticas:** sono distribuite nelle zone umide, come le foreste, i mari e i laghi.
-* **Nevi terrestrial:** sono distribuite nelle zone arido, come le",Gemma,30.46,30.53,39.01,12.17,12.5,11.97,12.29,12.74,12.59,13.38,12.36
+* **Nevi terrestrial:** sono distribuite nelle zone arido, come le",Gemma,30.46,30.53,39.01,12.18,12.49,11.97,12.3,12.74,12.6,13.35,12.36
 come aiutarele specie in estinzione,"**Aiutare la conservazione delle specie in estinzione:**
 
 **1. Ricerca e conservazione:**
@@ -1067,7 +1067,7 @@ come aiutarele specie in estinzione,"**Aiutare la conservazione delle specie in 
 * Collaborare con le risorse educative per fornire informazioni accurate e accessibili.
 
 **4. Ricerca e sviluppo:**
-* Finanziare progetti di ricerca per sviluppare nuove tecnologie di conservazione, come la conservazione genetica e la gestione delle risorse",Gemma,28.27,19.32,52.41,12.23,12.25,12.08,12.18,12.7,12.25,13.57,12.74
+* Finanziare progetti di ricerca per sviluppare nuove tecnologie di conservazione, come la conservazione genetica e la gestione delle risorse",Gemma,28.27,19.32,52.41,12.24,12.25,12.08,12.18,12.7,12.26,13.56,12.74
 come possiamo aiutare le specie in estinzione,"**Spese per la conservazione delle specie in estinzione:**
 
 **1. Ricerca e conservazione:**
@@ -1084,8 +1084,8 @@ come possiamo aiutare le specie in estinzione,"**Spese per la conservazione dell
 
 **4. Trasferimento e conservazione in sicurezza:**
 * Promuovere la collaborazione tra gli esperti di conservazione, i conservatori e i centri di gestione per il trasferimento e la conservazione in sicurezza delle specie in estinzione.
-* Offrire supporto finanziario e tecnico per le misure di conservazione",Gemma,30.23,18.37,51.39,12.22,12.19,12.11,12.21,12.74,12.27,13.48,12.78
-come si chiama Monica,"Il nome di Monica è un nome italiano e inglese, e viene portato da una donna o un uomo.",Gemma,35.3,31.17,33.53,12.51,12.67,12.31,12.17,12.45,12.35,13.26,12.28
+* Offrire supporto finanziario e tecnico per le misure di conservazione",Gemma,30.23,18.37,51.39,12.23,12.18,12.11,12.22,12.74,12.27,13.47,12.78
+come si chiama Monica,"Il nome di Monica è un nome italiano e inglese, e viene portato da una donna o un uomo.",Gemma,35.3,31.17,33.53,12.51,12.66,12.29,12.19,12.47,12.36,13.25,12.26
 come si formano i vulcani?,"I vulcani sono delle geyser che si formano quando il magma, un materiale solido e esplosivo, si immerge nell'acqua. L'acqua può essere di diverse fonti, come il mare, il lago o il fiume.
 
 **I fattori che influenzano la formazione dei vulcani sono:**
@@ -1100,7 +1100,7 @@ come si formano i vulcani?,"I vulcani sono delle geyser che si formano quando il
 1. Il magma si ege nell'acqua.
 2. L'acqua si evapora e il magma si solidifica.
 3. Il magma si immerge nell'acqua e si esplode.
-4. L'esplosione può creare un cratero e",Gemma,30.26,24.99,44.76,12.35,12.54,12.58,12.07,12.91,12.4,12.69,12.47
+4. L'esplosione può creare un cratero e",Gemma,30.26,24.99,44.76,12.36,12.53,12.59,12.07,12.9,12.41,12.67,12.47
 come si trovano i vulcani?,"I vulcani sono delle sorgenti geotermiche che si trovano in diverse parti del mondo, principalmente in zone montuose e alte. I vulcani sono formati da magmatismo, un processo di fusione e solidificazione di magma, e sono i più comuni tipi di geyser.
 
 **Come si trovano i vulcani:**
@@ -1115,7 +1115,7 @@ come si trovano i vulcani?,"I vulcani sono delle sorgenti geotermiche che si tro
 
 * **Vulcano di Kilauea, Hawaii**
 * **Vulcano di Mount St. Helens, Stati Uniti**
-* **Vulcano di Yellowstone, Stati Uniti**",Gemma,27.38,22.88,49.75,12.3,12.41,12.28,12.15,12.89,12.46,12.68,12.8
+* **Vulcano di Yellowstone, Stati Uniti**",Gemma,27.38,22.88,49.75,12.31,12.41,12.29,12.16,12.89,12.45,12.68,12.81
 come viene classificato il leopardo delle nevi?,"Il leopardo delle nevi è classificato come:
 
 * **Classificazione botanica:** <i>Aquilegia macrophylla</i>
@@ -1130,7 +1130,7 @@ come viene classificato il leopardo delle nevi?,"Il leopardo delle nevi è class
 * **Ordine:** Ranunculales
 * **Famiglia:** Aquilegiacées
 * **Genere:** Aquilegia
-* **Specie:** A. macrophylla",Gemma,28.71,26.13,45.15,12.19,12.55,12.11,12.41,12.54,12.31,13.25,12.63
+* **Specie:** A. macrophylla",Gemma,28.71,26.13,45.15,12.19,12.54,12.12,12.41,12.55,12.31,13.24,12.64
 cosa possiamo fare per aiutare le specie in es...,"**Spese per aiutare le specie in es:**
 
 **1. Aiuta la conservazione delle risorse naturali:**
@@ -1151,7 +1151,7 @@ cosa possiamo fare per aiutare le specie in es...,"**Spese per aiutare le specie
 **4. Aiuta la conservazione delle specie minerali:**
 * Promuovere la gestione delle risorse minerali e la protezione delle risorse.
 * Sfruttare le risorse minerali per la produzione di energia e altri usi.
-* Aiuta la conservazione delle risorse per la produzione di beni e servizi.",Gemma,27.56,23.47,48.97,12.26,12.33,12.11,12.29,12.73,12.23,13.43,12.63
+* Aiuta la conservazione delle risorse per la produzione di beni e servizi.",Gemma,27.56,23.47,48.97,12.26,12.33,12.11,12.29,12.73,12.23,13.42,12.63
 sviluppo di un tornado e i suoi effetti,"**Sviluppo di un tornado e i suoi effetti**
 
 **1. Ciclone meteorologico:**
@@ -1168,7 +1168,7 @@ sviluppo di un tornado e i suoi effetti,"**Sviluppo di un tornado e i suoi effet
 **3. Effetti del tornado:**
 * I tornado possono avere diversi effetti, tra cui:
     * **Movimento di wind:** I venti del tornado possono raggiungere velocità di up a 300 km/h.
-    * **Tempesta:** I tornado possono generare tempeste, che possono essere molto",Gemma,28.45,30.72,40.83,12.41,12.43,12.7,11.91,12.95,12.31,12.46,12.83
+    * **Tempesta:** I tornado possono generare tempeste, che possono essere molto",Gemma,28.45,30.72,40.83,12.42,12.41,12.69,11.91,12.96,12.31,12.44,12.85
 tipo di eruzione piÃ¹ dannoso,"Un tipo di eruzione piÃ¹ dannoso è un processo di apprendimento che implica la espposizione a un rischio o a un dolore per il scopo di ottenere un effetto di crescita. I rischi possono essere fisici, emotivi o sociali.
 
 **Esempi di tipi di eruzione piÃ¹ dannoso:**
@@ -1179,7 +1179,7 @@ tipo di eruzione piÃ¹ dannoso,"Un tipo di eruzione piÃ¹ dannoso è un proces
 * **Sport:** L'esposizione a allenamento e stress può aumentare la forza, la resistenza e la capacità di apprendimento.
 * **Rischi sociali:** L'esposizione a situazioni di risk e di responsabilità può aumentare la consapevolezza e la capacità di prendere decisioni.
 
-I tipi di eruzione piÃ¹ dannoso possono essere un modo efficace per ottenere un aumento dell'apprendimento e della conoscenza. Tuttavia, è importante essere consapevoli dei",Gemma,30.78,26.6,42.62,12.2,12.28,12.0,12.04,12.7,12.64,13.41,12.72
+I tipi di eruzione piÃ¹ dannoso possono essere un modo efficace per ottenere un aumento dell'apprendimento e della conoscenza. Tuttavia, è importante essere consapevoli dei",Gemma,30.78,26.6,42.62,12.2,12.27,12.0,12.05,12.71,12.65,13.39,12.73
 tornado,"**Tornado**
 
 A tornado is a violent, rotating column of air that extends from a thunderstorm cloud to the ground. It is characterized by its high winds, which can reach up to 200 miles per hour, and its ability to cause significant damage.
@@ -1200,7 +1200,7 @@ A tornado is a violent, rotating column of air that extends from a thunderstorm 
 
 **Formation:**
 
-Tornadoes are formed when warm, moist air rises into a thunderstorm cloud. As the air rises, it cools and condenses into tiny water droplets or ice crystals. These droplets or",Gemma,23.52,26.2,50.28,12.51,12.42,12.55,12.19,12.74,12.33,12.48,12.79
+Tornadoes are formed when warm, moist air rises into a thunderstorm cloud. As the air rises, it cools and condenses into tiny water droplets or ice crystals. These droplets or",Gemma,23.52,26.2,50.28,12.59,12.49,12.08,12.28,12.78,12.41,12.54,12.83
 tornado mostro nero,"A tornado is a violent, rotating column of air that extends from a thunderstorm cloud to the ground. Tornadoes are most common in the United States, Canada, and Australia, but they can occur in other parts of the world as well.
 
 **Characteristics of a tornado:**
@@ -1215,7 +1215,7 @@ tornado mostro nero,"A tornado is a violent, rotating column of air that extends
 
 * **Supercell:** Supercell tornadoes are the most common type of tornado, with a tall, rotating column of air that extends from a thunderstorm cloud to the ground.
 * **Funnel:** Funnel tornadoes are smaller and more intense than supercell tornadoes, with a narrow, elongated column of air.
-* **Wall cloud:** Wall clouds are",Gemma,23.7,23.7,52.6,12.63,12.41,12.6,12.21,12.68,12.4,12.34,12.73
+* **Wall cloud:** Wall clouds are",Gemma,23.7,23.7,52.6,12.63,12.41,12.61,12.22,12.66,12.4,12.35,12.71
 tornado veloce,"**Tornado Vescio**
 
 A tornado of exceptional strength and intensity, known as a **tornado veloce**, is a rare and deadly meteorological phenomenon that can pose a significant threat to life and property.
@@ -1228,7 +1228,7 @@ A tornado of exceptional strength and intensity, known as a **tornado veloce**, 
 * **High pressure:** Tornadoes of this strength often have a high pressure center, with a central pressure that is lower than the surrounding environment.
 * **Rapid rotation:** The winds in a tornado veloce rotate extremely quickly, creating a strong updrafts and downdrafts.
 * **Extreme downdrafts:** These downdrafts can reach up to 1,000 feet per minute (305 meters per minute), strong enough to overturn small cars and debris.
-* **Short duration:** They typically last only a few minutes, with a lifespan of less",Gemma,24.3,27.84,47.86,12.57,12.43,12.7,12.32,12.6,12.36,12.35,12.67
+* **Short duration:** They typically last only a few minutes, with a lifespan of less",Gemma,24.3,27.84,47.86,12.57,12.44,12.7,12.33,12.58,12.37,12.36,12.65
 tornado velocita,"**Tornado velocity** is the speed at which a tornado moves through the air. It is typically measured in miles per hour (mph) or kilometers per hour (km/h).
 
 **Factors that affect tornado velocity:**
@@ -1242,8 +1242,8 @@ tornado velocita,"**Tornado velocity** is the speed at which a tornado moves thr
 
 * **30-70 mph (48-113 km/h)** for small tornadoes
 * **70-130 mph (113-209 km/h)** for medium tornadoes
-* **130-185 mph (209-301 km/h",Gemma,23.92,27.91,48.17,12.59,12.49,12.57,12.32,12.7,12.39,12.27,12.68
-tornado velocita mostro nero,Un tornado velocita mostro nero è un mito. Non esiste prova scientifica che supporti la teoria che un tornado possa essere nero.,Gemma,29.05,32.39,38.56,12.22,12.51,12.12,12.01,12.85,12.24,13.27,12.78
+* **130-185 mph (209-301 km/h",Gemma,23.92,27.91,48.17,12.59,12.49,12.58,12.32,12.68,12.4,12.28,12.66
+tornado velocita mostro nero,Un tornado velocita mostro nero è un mito. Non esiste prova scientifica che supporti la teoria che un tornado possa essere nero.,Gemma,29.05,32.39,38.56,12.23,12.49,12.11,12.02,12.88,12.26,13.25,12.76
 velocita tornado,"**Velocita tornado** is a term used in meteorology to describe a tornado with extremely high winds. These winds can reach speeds of up to 300 miles per hour (483 kilometers per hour) and are capable of causing significant damage.
 
 **Characteristics of a velocita tornado:**
@@ -1270,7 +1270,7 @@ velocita tornado,"**Velocita tornado** is a term used in meteorology to describe
     * Loss of life
     * Flooding
     * Tornadoes can also spawn other tornadoes
-* The winds from a velocita tornado can reach up to 300 miles per hour, enough to rip off roofs and other objects",Gemma,21.85,26.87,51.28,12.57,12.39,12.59,12.21,12.68,12.43,12.38,12.75
+* The winds from a velocita tornado can reach up to 300 miles per hour, enough to rip off roofs and other objects",Gemma,21.85,26.87,51.28,12.62,12.44,12.27,12.27,12.71,12.47,12.43,12.78
 vulcani tipologia di eruzioni danni,"**Vulcani tipologia di eruzioni danni**
 
 I vulcani tipologia di eruzioni danni sono un modo per classificare e valutare le diverse forme e cause delle eruzioni. Si basano sul numero e la forma delle eruzioni, sulla loro posizione e il loro impatto.
@@ -1282,7 +1282,7 @@ I vulcani tipologia di eruzioni danni sono un modo per classificare e valutare l
 * **Eruzioni con forma di scarico a forma di disco:** Eruzioni che hanno una forma di disco, come un cratero o un fumarino.
 * **Eruzioni con forma di scarico a forma di fiamma:** Eruzioni che hanno una forma di fiamma, come un geyser o un fumarino.
 * **Eruzioni con forma di scarico a forma di tubo:** Eruzioni che hanno una forma di tubo, come un geyser o un fumarino.
-* **Eruzioni con forma di scarico a forma di sacco:** Eruzioni che hanno una forma di sac",Gemma,32.18,27.04,40.78,12.26,12.79,12.21,12.04,12.83,12.15,13.39,12.32
+* **Eruzioni con forma di scarico a forma di sacco:** Eruzioni che hanno una forma di sac",Gemma,32.18,27.04,40.78,12.27,12.78,12.24,12.04,12.83,12.16,13.37,12.33
 vulcano attivo antico,"**Vulcano Activo Antico**
 
 **Location:** Mount Etna, Italy
@@ -1306,7 +1306,7 @@ vulcano attivo antico,"**Vulcano Activo Antico**
 * **1579 AD:** A less significant eruption that produced ash clouds that reached as high as 10,000 meters.
 * **124 AD:** A minor eruption that produced ash and smoke.
 
-**Scientific",Gemma,22.6,22.71,54.69,12.68,12.5,12.63,12.35,12.54,12.45,12.35,12.5
+**Scientific",Gemma,22.6,22.71,54.69,12.72,12.56,12.2,12.42,12.6,12.51,12.43,12.56
 vulcano piÃ¹ antico attivo,"**Vulcano piÃ¹ antico attivo**
 
 Un vulcano piÃ¹ antico attivo è un vulcano che si trova in un ambiente geologico particolare, come un mare o un lago, che ha un'attività geotermica. I vulcani piÃ¹ antico sono un tipo di vulcano che si differenzia dai vulcani di tipo piÃ¹ normale.
@@ -1326,4 +1326,4 @@ Un vulcano piÃ¹ antico attivo è un vulcano che si trova in un ambiente geolog
 * Lago Baikal, Russia
 * Mare di Magallena, Argentina
 
-I vulcani piÃ¹ antico sono un esempio di come la geologia può essere complessa e che possono essere create da diverse cause.",Gemma,32.7,24.19,43.11,12.4,12.37,12.47,12.14,12.81,12.55,12.84,12.42
+I vulcani piÃ¹ antico sono un esempio di come la geologia può essere complessa e che possono essere create da diverse cause.",Gemma,32.7,24.19,43.11,12.4,12.36,12.47,12.16,12.81,12.56,12.82,12.42

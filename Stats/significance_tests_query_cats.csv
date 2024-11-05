@@ -11,38 +11,38 @@ Gemma_prompt_len,neutral,T Test,2.268562013093096,0.025283153790035987,True
 GPT_prompt_len,neutral,Mann Whitney U,1336.0,0.34199604249522864,False
 LLM_short_prompt,neutral,Mann Whitney U,2495.0,0.0011687301596366342,True
 LLM_long_prompt,neutral,T Test,0.1861542321298506,0.8527166077740536,False
-Gemma_prompt_len,joy,Mann Whitney U,1780.5,0.08587095021931909,False
-GPT_prompt_len,joy,Mann Whitney U,1595.5,0.5454609228940159,False
-LLM_short_prompt,joy,Mann Whitney U,2078.5,0.2652696908721446,False
-LLM_long_prompt,joy,Mann Whitney U,1263.0,0.6594504859651285,False
-Gemma_prompt_len,anger,Mann Whitney U,1512.5,0.9161563926178748,False
-GPT_prompt_len,anger,Mann Whitney U,1472.0,0.8947190163640953,False
-LLM_short_prompt,anger,Mann Whitney U,2004.5,0.462333740122542,False
-LLM_long_prompt,anger,Mann Whitney U,1283.5,0.5576466335071903,False
-Gemma_prompt_len,surprise,Mann Whitney U,1439.5,0.7430339683042726,False
-GPT_prompt_len,surprise,Mann Whitney U,1621.5,0.4466741534968506,False
-LLM_short_prompt,surprise,Mann Whitney U,1836.5,0.9042018855115638,False
-LLM_long_prompt,surprise,Mann Whitney U,1349.5,0.29124565295025695,False
-Gemma_prompt_len,disgust,Mann Whitney U,1808.5,0.059293170749657606,False
-GPT_prompt_len,disgust,Mann Whitney U,1358.5,0.415013663688908,False
-LLM_short_prompt,disgust,Mann Whitney U,1998.5,0.4812622464804749,False
-LLM_long_prompt,disgust,T Test,-1.7599741445751766,0.08159747465836453,False
-Gemma_prompt_len,fear,Mann Whitney U,1558.5,0.7024684449054728,False
-GPT_prompt_len,fear,Mann Whitney U,1746.0,0.13106163213005842,False
-LLM_short_prompt,fear,Mann Whitney U,1451.5,0.03641023090466223,True
-LLM_long_prompt,fear,Mann Whitney U,1099.0,0.47287344433300704,False
-Gemma_prompt_len,sadness,T Test,0.3024925968289585,0.762858385960472,False
-GPT_prompt_len,sadness,Mann Whitney U,1364.5,0.4359410802168405,False
-LLM_short_prompt,sadness,Mann Whitney U,1559.5,0.12370412021509422,False
-LLM_long_prompt,sadness,T Test,-2.1666804647788993,0.032734394358761784,True
-Gemma_prompt_len,trust,Mann Whitney U,1302.5,0.24941823270626717,False
-GPT_prompt_len,trust,Mann Whitney U,1364.5,0.4360197300514803,False
-LLM_short_prompt,trust,Mann Whitney U,1908.5,0.8078176753998513,False
-LLM_long_prompt,trust,Mann Whitney U,1336.5,0.3356268396424067,False
-Gemma_prompt_len,anticipation,T Test,-0.3414341739362109,0.7334401601782865,False
-GPT_prompt_len,anticipation,Mann Whitney U,1489.5,0.9784060881610537,False
-LLM_short_prompt,anticipation,Mann Whitney U,1965.5,0.5925290609735057,False
-LLM_long_prompt,anticipation,T Test,0.4822721212459025,0.6307104346379306,False
+Gemma_prompt_len,joy,Mann Whitney U,1781.5,0.08480379275564606,False
+GPT_prompt_len,joy,Mann Whitney U,1600.0,0.5276152272622908,False
+LLM_short_prompt,joy,Mann Whitney U,2079.5,0.26309682963128167,False
+LLM_long_prompt,joy,Mann Whitney U,1272.5,0.6113432328207252,False
+Gemma_prompt_len,anger,Mann Whitney U,1545.5,0.7612327311849947,False
+GPT_prompt_len,anger,Mann Whitney U,1466.0,0.8662519601307268,False
+LLM_short_prompt,anger,Mann Whitney U,2026.5,0.39661787517828795,False
+LLM_long_prompt,anger,Mann Whitney U,1274.5,0.6014084261051297,False
+Gemma_prompt_len,surprise,Mann Whitney U,1329.0,0.32095052373242405,False
+GPT_prompt_len,surprise,Mann Whitney U,1626.0,0.4306744974900757,False
+LLM_short_prompt,surprise,Mann Whitney U,1662.0,0.31055149972888674,False
+LLM_long_prompt,surprise,Mann Whitney U,1351.5,0.2847977878589233,False
+Gemma_prompt_len,disgust,Mann Whitney U,1833.0,0.042025047777296674,True
+GPT_prompt_len,disgust,Mann Whitney U,1353.5,0.398022028370978,False
+LLM_short_prompt,disgust,Mann Whitney U,2028.0,0.392409068511013,False
+LLM_long_prompt,disgust,T Test,-1.7637014212747089,0.08096372422382099,False
+Gemma_prompt_len,fear,T Test,0.6385350072505634,0.5244772473042496,False
+GPT_prompt_len,fear,Mann Whitney U,1751.5,0.12282720142731911,False
+LLM_short_prompt,fear,Mann Whitney U,1466.0,0.04360085167633944,True
+LLM_long_prompt,fear,Mann Whitney U,1097.5,0.4663487525807575,False
+Gemma_prompt_len,sadness,T Test,0.526965937790172,0.5992979851554965,False
+GPT_prompt_len,sadness,Mann Whitney U,1350.0,0.386315598313816,False
+LLM_short_prompt,sadness,Mann Whitney U,1626.5,0.2316823301601172,False
+LLM_long_prompt,sadness,T Test,-2.1792585828112694,0.031759176535195464,True
+Gemma_prompt_len,trust,Mann Whitney U,1315.5,0.28300082763246237,False
+GPT_prompt_len,trust,Mann Whitney U,1371.0,0.459410184040122,False
+LLM_short_prompt,trust,Mann Whitney U,1913.0,0.7900197074947715,False
+LLM_long_prompt,trust,Mann Whitney U,1332.0,0.3519046341807862,False
+Gemma_prompt_len,anticipation,T Test,-0.31589262801200363,0.7526936669227055,False
+GPT_prompt_len,anticipation,Mann Whitney U,1501.5,0.9688106815219328,False
+LLM_short_prompt,anticipation,Mann Whitney U,1972.0,0.5697097280832124,False
+LLM_long_prompt,anticipation,T Test,0.5154917300241081,0.6073945415951099,False
 Gemma_prompt_sentiment,positive,ANOVA,1.1860417424653618,0.3094105679938061,False
 GPT_prompt_sentiment,positive,ANOVA,5.3451939056778945,0.006128990255031315,True
 LLM_positive_prompt,positive,T Test,-1.43800373707296,0.1658971848822573,False
@@ -58,46 +58,46 @@ GPT_prompt_sentiment,neutral,Kruskal Wallis H,1.4435458732061393,0.4858900396220
 LLM_positive_prompt,neutral,T Test,1.5535741750689915,0.13596791985598802,False
 LLM_negative_prompt,neutral,T Test,1.6917282518453884,0.10481594410224028,False
 LLM_neutral_prompt,neutral,Mann Whitney U,4448.5,0.045815857141764504,True
-Gemma_prompt_sentiment,joy,Kruskal Wallis H,2.7314661257055346,0.25519353450281224,False
-GPT_prompt_sentiment,joy,Kruskal Wallis H,8.4046604132647,0.014960674708274186,True
-LLM_positive_prompt,joy,T Test,1.610316089542326,0.12299959277906695,False
-LLM_negative_prompt,joy,T Test,1.5630176359057426,0.13231983025248112,False
-LLM_neutral_prompt,joy,Mann Whitney U,3854.5,0.834273057916983,False
-Gemma_prompt_sentiment,anger,Kruskal Wallis H,1.8632567358548402,0.39391175457595157,False
-GPT_prompt_sentiment,anger,Kruskal Wallis H,10.497684424932109,0.005253597429001516,True
-LLM_positive_prompt,anger,T Test,1.5130136781742582,0.14591866196095035,False
-LLM_negative_prompt,anger,T Test,2.5703362671714127,0.017453323923335085,True
-LLM_neutral_prompt,anger,Mann Whitney U,3778.0,0.9855887902572554,False
-Gemma_prompt_sentiment,surprise,Kruskal Wallis H,7.294844950881195,0.026058207963494787,True
-GPT_prompt_sentiment,surprise,Kruskal Wallis H,13.884545225316526,0.0009660715939692354,True
-LLM_positive_prompt,surprise,T Test,1.237223588112945,0.2303343233198417,False
-LLM_negative_prompt,surprise,Mann Whitney U,99.0,0.12495082955629846,False
-LLM_neutral_prompt,surprise,Mann Whitney U,3720.0,0.8472243468525534,False
-Gemma_prompt_sentiment,disgust,Kruskal Wallis H,4.422488735070656,0.10956422548769136,False
-GPT_prompt_sentiment,disgust,Kruskal Wallis H,5.664950286097654,0.05886696903204772,False
-LLM_positive_prompt,disgust,T Test,0.44154564237402877,0.6635549396236836,False
-LLM_negative_prompt,disgust,Mann Whitney U,76.5,0.8172442091888594,False
-LLM_neutral_prompt,disgust,Mann Whitney U,3529.0,0.4426514636979427,False
-Gemma_prompt_sentiment,fear,Kruskal Wallis H,0.44509216977292343,0.8004781159570923,False
-GPT_prompt_sentiment,fear,Kruskal Wallis H,0.3091013448136015,0.8568000749201352,False
-LLM_positive_prompt,fear,T Test,0.14707531694456344,0.884545079519533,False
-LLM_negative_prompt,fear,T Test,-1.145957129979786,0.2641254208851868,False
-LLM_neutral_prompt,fear,Mann Whitney U,3215.5,0.08699592625515716,False
-Gemma_prompt_sentiment,sadness,ANOVA,3.6741556935499506,0.028624649606110653,True
-GPT_prompt_sentiment,sadness,Kruskal Wallis H,0.5526960081052656,0.7585489067295274,False
-LLM_positive_prompt,sadness,T Test,-1.202597885660733,0.2431766328799305,False
-LLM_negative_prompt,sadness,T Test,-2.7465877230509546,0.011776832288692033,True
-LLM_neutral_prompt,sadness,Mann Whitney U,3173.5,0.06604844128992708,False
-Gemma_prompt_sentiment,trust,Kruskal Wallis H,3.017366291440785,0.22120107583393678,False
-GPT_prompt_sentiment,trust,Kruskal Wallis H,14.433351724491327,0.0007342390785823072,True
-LLM_positive_prompt,trust,Mann Whitney U,28.5,0.03848824503077004,True
-LLM_negative_prompt,trust,T Test,-0.5923977917972059,0.5596243580853653,False
-LLM_neutral_prompt,trust,Mann Whitney U,4426.0,0.05367196946867872,False
-Gemma_prompt_sentiment,anticipation,ANOVA,1.463422684235692,0.2360373231994975,False
-GPT_prompt_sentiment,anticipation,Kruskal Wallis H,4.856839696539388,0.0881760541023028,False
-LLM_positive_prompt,anticipation,T Test,-0.6304806071804895,0.5355185892814365,False
-LLM_negative_prompt,anticipation,T Test,0.39817339649964617,0.6943401021265776,False
-LLM_neutral_prompt,anticipation,Mann Whitney U,4065.0,0.39929014888701664,False
+Gemma_prompt_sentiment,joy,Kruskal Wallis H,2.9958992943762377,0.22358812503406295,False
+GPT_prompt_sentiment,joy,Kruskal Wallis H,8.782618177318724,0.012384506187464147,True
+LLM_positive_prompt,joy,T Test,1.799071836045815,0.08711598884643912,False
+LLM_negative_prompt,joy,T Test,1.57889391077773,0.12863209169793452,False
+LLM_neutral_prompt,joy,Mann Whitney U,3864.0,0.8120181507676397,False
+Gemma_prompt_sentiment,anger,Kruskal Wallis H,1.9552845665322232,0.37619702007483197,False
+GPT_prompt_sentiment,anger,Kruskal Wallis H,10.932752820786709,0.0042265196160855105,True
+LLM_positive_prompt,anger,T Test,1.683423876541019,0.10783849739325488,False
+LLM_negative_prompt,anger,T Test,2.5742899654392457,0.01730171294201487,True
+LLM_neutral_prompt,anger,Mann Whitney U,3778.0,0.9855886999549951,False
+Gemma_prompt_sentiment,surprise,Kruskal Wallis H,3.7545037612936514,0.15301001830024027,False
+GPT_prompt_sentiment,surprise,Kruskal Wallis H,13.775264768985398,0.001020326724853957,True
+LLM_positive_prompt,surprise,T Test,-0.08242441026446373,0.9351285740620454,False
+LLM_negative_prompt,surprise,Mann Whitney U,99.5,0.11798911934696404,False
+LLM_neutral_prompt,surprise,Mann Whitney U,3600.5,0.5806671745666262,False
+Gemma_prompt_sentiment,disgust,Kruskal Wallis H,3.867714435545775,0.14458940865257602,False
+GPT_prompt_sentiment,disgust,Kruskal Wallis H,5.791759019656236,0.05525041044030219,False
+LLM_positive_prompt,disgust,T Test,0.6367234975851989,0.53152583408004,False
+LLM_negative_prompt,disgust,Mann Whitney U,77.0,0.7947502574970043,False
+LLM_neutral_prompt,disgust,Mann Whitney U,3529.5,0.44356727393735595,False
+Gemma_prompt_sentiment,fear,Kruskal Wallis H,0.6355746925222265,0.7277575323208282,False
+GPT_prompt_sentiment,fear,Kruskal Wallis H,0.22919126036687062,0.8917266583566035,False
+LLM_positive_prompt,fear,T Test,0.3148570657492883,0.7561314824520085,False
+LLM_negative_prompt,fear,T Test,-1.1896802641093887,0.24685335773841346,False
+LLM_neutral_prompt,fear,Mann Whitney U,3227.5,0.09388071725360607,False
+Gemma_prompt_sentiment,sadness,ANOVA,3.7265832701229664,0.02725487085189154,True
+GPT_prompt_sentiment,sadness,Kruskal Wallis H,0.47874572285925027,0.7871213404625672,False
+LLM_positive_prompt,sadness,T Test,-0.8208041035423741,0.4214340686881456,False
+LLM_negative_prompt,sadness,T Test,-2.763463415506094,0.011336322456485488,True
+LLM_neutral_prompt,sadness,Mann Whitney U,3226.5,0.0932466822944781,False
+Gemma_prompt_sentiment,trust,Kruskal Wallis H,2.962524058704185,0.22735058414452478,False
+GPT_prompt_sentiment,trust,Kruskal Wallis H,14.756014536882548,0.000624844794140902,True
+LLM_positive_prompt,trust,Mann Whitney U,28.0,0.035356394450413914,True
+LLM_negative_prompt,trust,T Test,-0.5639603147460207,0.5784855481229338,False
+LLM_neutral_prompt,trust,Mann Whitney U,4430.0,0.05219838647119466,False
+Gemma_prompt_sentiment,anticipation,ANOVA,1.6092513885785216,0.20484056739782766,False
+GPT_prompt_sentiment,anticipation,Kruskal Wallis H,5.021589927151846,0.08120365962343866,False
+LLM_positive_prompt,anticipation,T Test,-0.5221296194616207,0.6073153437198597,False
+LLM_negative_prompt,anticipation,T Test,0.3859095743295484,0.7032702696333584,False
+LLM_neutral_prompt,anticipation,Mann Whitney U,4076.0,0.3810266679036137,False
 Gemma_search_type,positive,,,,
 GPT_search_type,positive,,,,
 LLM_multisteps_search,positive,T Test,0.26473318176172095,0.7920158112325016,False
@@ -121,57 +121,57 @@ LLM_unknown_search,neutral,,,,
 LLM_infosearch_search,neutral,Mann Whitney U,169.0,0.020191414969204242,True
 Gemma_search_type,joy,,,,
 GPT_search_type,joy,,,,
-LLM_multisteps_search,joy,Mann Whitney U,659.5,0.58482137537775,False
-LLM_fact_search,joy,Mann Whitney U,1145.5,0.7593348436881225,False
-LLM_opensearch_search,joy,Mann Whitney U,65.0,0.7925835910790886,False
+LLM_multisteps_search,joy,Mann Whitney U,662.0,0.5648216859610158,False
+LLM_fact_search,joy,Mann Whitney U,1151.5,0.7250350113779571,False
+LLM_opensearch_search,joy,T Test,0.28153485361536784,0.781192527301346,False
 LLM_unknown_search,joy,,,,
-LLM_infosearch_search,joy,Mann Whitney U,175.5,0.009396109288948292,True
+LLM_infosearch_search,joy,T Test,2.8213153554379984,0.008696208440798825,True
 Gemma_search_type,anger,,,,
 GPT_search_type,anger,,,,
-LLM_multisteps_search,anger,Mann Whitney U,601.0,0.8971732698170286,False
-LLM_fact_search,anger,Mann Whitney U,1114.5,0.9427084700897116,False
-LLM_opensearch_search,anger,Mann Whitney U,98.0,0.014972548048845593,True
+LLM_multisteps_search,anger,Mann Whitney U,606.0,0.9437976706630831,False
+LLM_fact_search,anger,T Test,0.9226204085877662,0.358618381571549,False
+LLM_opensearch_search,anger,Mann Whitney U,96.0,0.021361884659373866,True
 LLM_unknown_search,anger,,,,
-LLM_infosearch_search,anger,T Test,1.652507968072459,0.1096025795046036,False
+LLM_infosearch_search,anger,T Test,1.607317428313451,0.11920454631347124,False
 Gemma_search_type,surprise,,,,
 GPT_search_type,surprise,,,,
-LLM_multisteps_search,surprise,Mann Whitney U,702.0,0.29568920086364414,False
-LLM_fact_search,surprise,T Test,-0.35801918454360043,0.7211490838522325,False
-LLM_opensearch_search,surprise,T Test,0.10204081632653753,0.9197404155221254,False
+LLM_multisteps_search,surprise,Mann Whitney U,681.0,0.4243391190486243,False
+LLM_fact_search,surprise,Mann Whitney U,952.0,0.2502573308174527,False
+LLM_opensearch_search,surprise,T Test,0.08233608038809928,0.9351979284855697,False
 LLM_unknown_search,surprise,,,,
-LLM_infosearch_search,surprise,Mann Whitney U,161.5,0.04389927924449201,True
+LLM_infosearch_search,surprise,Mann Whitney U,161.0,0.046048814456343415,True
 Gemma_search_type,disgust,,,,
 GPT_search_type,disgust,,,,
-LLM_multisteps_search,disgust,Mann Whitney U,551.5,0.4770653007166683,False
-LLM_fact_search,disgust,Mann Whitney U,1109.0,0.975861912754846,False
-LLM_opensearch_search,disgust,T Test,-0.009506751477925651,0.992509015339992,False
+LLM_multisteps_search,disgust,Mann Whitney U,553.5,0.49174789828588783,False
+LLM_fact_search,disgust,Mann Whitney U,1120.0,0.9096667920613712,False
+LLM_opensearch_search,disgust,T Test,0.03802528761961272,0.9700445212739045,False
 LLM_unknown_search,disgust,,,,
-LLM_infosearch_search,disgust,T Test,-1.6505711669731582,0.11000048327107215,False
+LLM_infosearch_search,disgust,Mann Whitney U,64.5,0.04868900978591501,True
 Gemma_search_type,fear,,,,
 GPT_search_type,fear,,,,
-LLM_multisteps_search,fear,Mann Whitney U,569.0,0.6133522255499763,False
-LLM_fact_search,fear,Mann Whitney U,798.0,0.020639753754003648,True
-LLM_opensearch_search,fear,Mann Whitney U,64.0,0.8435696297929997,False
+LLM_multisteps_search,fear,Mann Whitney U,577.5,0.685222775848576,False
+LLM_fact_search,fear,Mann Whitney U,796.0,0.019823081394899605,True
+LLM_opensearch_search,fear,Mann Whitney U,65.0,0.7925835910790886,False
 LLM_unknown_search,fear,,,,
-LLM_infosearch_search,fear,Mann Whitney U,76.5,0.14049566435620126,False
+LLM_infosearch_search,fear,Mann Whitney U,76.0,0.1347732448805987,False
 Gemma_search_type,sadness,,,,
 GPT_search_type,sadness,,,,
-LLM_multisteps_search,sadness,Mann Whitney U,585.0,0.7510159996718501,False
-LLM_fact_search,sadness,T Test,-1.5248350708145801,0.13073063665425635,False
-LLM_opensearch_search,sadness,T Test,-0.8561081287051173,0.4020789234705261,False
+LLM_multisteps_search,sadness,Mann Whitney U,597.5,0.8647046877650706,False
+LLM_fact_search,sadness,T Test,-1.290714242709187,0.20003699623685606,False
+LLM_opensearch_search,sadness,T Test,-0.9518853339557438,0.3525181658732013,False
 LLM_unknown_search,sadness,,,,
-LLM_infosearch_search,sadness,T Test,-6.251239375548486,9.333580453069468e-07,True
+LLM_infosearch_search,sadness,T Test,-6.293805414140011,8.331794124839933e-07,True
 Gemma_search_type,trust,,,,
 GPT_search_type,trust,,,,
-LLM_multisteps_search,trust,Mann Whitney U,671.0,0.495615575693935,False
-LLM_fact_search,trust,T Test,0.9502903564348488,0.3444545204899545,False
-LLM_opensearch_search,trust,T Test,-0.7156526884664413,0.48247818067102466,False
+LLM_multisteps_search,trust,Mann Whitney U,666.0,0.5335312466085468,False
+LLM_fact_search,trust,Mann Whitney U,1237.5,0.3162951759560164,False
+LLM_opensearch_search,trust,T Test,-0.7215117185812536,0.4789455299365788,False
 LLM_unknown_search,trust,,,,
-LLM_infosearch_search,trust,Mann Whitney U,158.5,0.059041768869738366,False
+LLM_infosearch_search,trust,Mann Whitney U,160.0,0.051032510551016395,False
 Gemma_search_type,anticipation,,,,
 GPT_search_type,anticipation,,,,
-LLM_multisteps_search,anticipation,Mann Whitney U,670.5,0.4992975853908961,False
-LLM_fact_search,anticipation,T Test,-0.26688837603867865,0.790152426026368,False
-LLM_opensearch_search,anticipation,T Test,-0.3745136629757923,0.711963720172981,False
+LLM_multisteps_search,anticipation,Mann Whitney U,674.5,0.4699181224060298,False
+LLM_fact_search,anticipation,T Test,-0.231995005724472,0.8170571556799209,False
+LLM_opensearch_search,anticipation,T Test,-0.40997974895104455,0.6861790619966699,False
 LLM_unknown_search,anticipation,,,,
-LLM_infosearch_search,anticipation,T Test,2.336529545039448,0.02684686705709988,True
+LLM_infosearch_search,anticipation,T Test,2.426451847175595,0.02193837049282821,True

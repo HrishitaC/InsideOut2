@@ -1,0 +1,111 @@
+query,source,query_len_type,query_len,search_type,query_sentiment_type,topic,positive,negative,neutral,joy,anger,surprise,disgust,fear,sadness,trust,anticipation
+Chi era il padre di Micerino ?,IT-GUI,short,6,multisteps,neutral,history,25.31,30.15,44.54,12.53,13.28,12.68,11.67,12.12,12.82,13.11,11.81
+Il figlio di Chefren,IT-GUI,short,4,multisteps,neutral,history,26.92,32.38,40.7,12.59,13.23,12.38,12.15,12.43,12.67,12.55,12.0
+Il padre di Micerino,IT-GUI,short,4,multisteps,neutral,history,25.31,30.15,44.54,12.53,13.28,12.68,11.67,12.12,12.82,13.11,11.81
+Micerino,IT-GUI,short,1,multisteps,positive,history,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quanto e alta la tomba di Cheope?,IT-GUI,long,7,fact,neutral,history,28.06,31.37,40.57,12.56,12.96,12.69,12.17,12.33,12.77,12.19,12.32
+Si e scoperto il padre di Micerino?,IT-GUI,long,7,multisteps,neutral,history,25.03,23.79,51.18,12.53,13.28,12.68,11.67,12.12,12.82,13.11,11.81
+quali sono le regole principali della pallavolo,IT-GUI,long,7,opensearch,neutral,sports,20.67,27.45,51.87,13.25,12.28,13.12,12.23,12.21,12.18,12.03,12.7
+quanti leopardi delle nevi sono rimasti,IT-GUI,short,6,multisteps,negative,endangered animals,18.6,47.35,34.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+CHE VELOCITA PUO RAGGIUNGERE UN TORNADO FENOMENO NATURALE,IT-GUI,long,8,fact,neutral,tornado,31.71,25.85,42.45,12.43,12.44,12.36,12.15,13.05,12.15,12.65,12.77
+Come si costruivano le piramidi Egizie?,IT-GUI,short,6,opensearch,neutral,history,19.45,14.04,66.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dove si trova la piramide di Cheope?,IT-GUI,long,7,fact,neutral,history,32.5,30.06,37.44,12.27,12.58,12.47,12.32,12.68,12.01,12.59,13.1
+FANTASMA DELLE MONTAGNE,IT-GUI,short,3,multisteps,neutral,endangered animals,20.9,17.76,61.33,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,IT-GUI,long,8,fact,neutral,tornado,30.79,13.9,55.31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Quale e la piramide egizia piu` alta ?,IT-GUI,long,7,fact,neutral,history,27.07,23.44,49.49,12.27,12.58,12.47,12.32,12.68,12.01,12.59,13.1
+Quanto era alta la tomba del padre di Micerino?,IT-GUI,long,9,fact,neutral,history,27.14,30.97,41.89,12.54,13.12,12.68,11.92,12.23,12.79,12.65,12.06
+quanto Ã¨ alta la tomba del padre di micerino,IT-GUI,long,9,multisteps,neutral,history,27.14,30.97,41.89,12.54,13.12,12.68,11.92,12.23,12.79,12.65,12.06
+quanto Ã¨ alta la tomba del padre micerino,IT-GUI,long,8,multisteps,neutral,history,27.14,30.97,41.89,12.54,13.12,12.68,11.92,12.23,12.79,12.65,12.06
+quanto Ã¨ alta la tomba di Chefren,IT-GUI,long,7,multisteps,neutral,history,28.06,31.37,40.57,12.56,12.96,12.69,12.17,12.33,12.77,12.19,12.32
+quanto Ã¨ alta la tomba di micerino,IT-GUI,long,7,multisteps,neutral,history,28.06,31.37,40.57,12.56,12.96,12.69,12.17,12.33,12.77,12.19,12.32
+quanto Ã©l alta la tomba di micerino,IT-GUI,long,7,multisteps,neutral,history,28.06,31.37,40.57,12.56,12.96,12.69,12.17,12.33,12.77,12.19,12.32
+regioni italÃ©8iane con piu` squadre di pallavolo,IT-GUI,long,7,multisteps,neutral,sports,19.69,22.24,58.06,13.25,12.28,13.12,12.23,12.21,12.18,12.03,12.7
+tre animali a rischio di estinzione,IT-GUI,short,6,fact,neutral,endangered animals,21.37,21.06,57.57,12.29,12.43,12.14,12.25,13.22,12.41,12.75,12.51
+tre animali a rischio estinzione,IT-GUI,short,5,fact,neutral,endangered animals,21.37,21.06,57.57,12.29,12.43,12.14,12.25,13.22,12.41,12.75,12.51
+tre animali in via di estinzione,IT-GUI,short,6,fact,neutral,endangered animals,21.12,19.53,59.35,12.58,12.52,12.02,12.89,12.78,12.71,12.15,12.33
+trova 3 animali a rischio di estinzione,IT-GUI,long,7,fact,neutral,endangered animals,26.43,25.9,47.67,12.29,12.43,12.14,12.25,13.22,12.41,12.75,12.51
+un bambino sano quanto pasti fa al giorno,IT-GUI,long,8,fact,neutral,sports,34.47,27.39,38.14,12.73,12.7,12.05,12.34,12.71,12.87,13.05,11.56
+un fantasma delle montagne foto,IT-GUI,short,5,fact,neutral,endangered animals,17.47,26.29,56.24,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+vulcano attivo piu atlantico,IT-GUI,short,4,fact,neutral,volcanos,33.06,17.9,49.04,12.37,12.21,12.43,12.34,12.85,12.53,12.45,12.82
+wwf in via di estinzione,IT-GUI,short,5,fact,neutral,endangered animals,23.68,15.02,61.3,12.54,12.29,12.07,12.69,12.95,12.25,12.42,12.8
+zigurat,IT-GUI,short,1,unknown,positive,history,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+i vantaggi della dieta mediterranea,IT-Wizard,short,5,opensearch,neutral,sports,30.61,18.46,50.93,12.41,13.02,12.41,11.85,12.46,12.42,13.08,12.36
+il leopardo delle nevi e invertebrato o vertebrato,IT-Wizard,long,8,fact,neutral,endangered animals,17.27,39.51,43.22,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+chi era san giuseppe,IT-Wizard,short,4,fact,neutral,father day,26.77,15.72,57.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+come e nata la festa del papa,IT-Wizard,long,7,opensearch,neutral,father day,18.88,17.22,63.89,13.22,12.72,12.87,11.59,12.04,12.48,12.8,12.28
+come possiamo aiutare gli animali in estinzione,IT-Wizard,long,7,infosearch,neutral,endangered animals,24.27,34.2,41.52,12.17,12.31,11.98,12.5,12.69,13.11,12.79,12.45
+come si formano i vulcani,IT-Wizard,short,5,opensearch,neutral,volcanos,36.49,18.5,45.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+come si localizza un punto su una mappa,IT-Wizard,long,8,multisteps,neutral,geography,30.35,29.71,39.94,12.0,12.01,12.72,11.53,12.54,12.2,13.53,13.47
+come si sviluppa un tornado,IT-Wizard,short,5,infosearch,neutral,tornado,33.07,26.29,40.64,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+come si sviluppa un tornado e i suoi effetti,IT-Wizard,long,9,infosearch,positive,tornado,38.93,25.11,35.96,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+come si trova un punto su una mappa,IT-Wizard,long,8,multisteps,positive,geography,43.56,30.08,26.36,12.0,12.01,12.72,11.53,12.54,12.2,13.53,13.47
+come viene classificato il leopardo delle nevi,IT-Wizard,long,7,fact,negative,endangered animals,19.06,43.47,37.48,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+cosa possiamo fare per aiutare le specie in estinzione,IT-Wizard,long,9,infosearch,negative,endangered animals,31.43,34.57,34.0,12.0,12.3,12.04,12.36,12.74,12.73,13.21,12.63
+cosa possiamo fare per aiutare le specie in via di estinzione,IT-Wizard,long,11,multisteps,negative,endangered animals,31.43,34.57,34.0,12.0,12.3,12.04,12.36,12.74,12.73,13.21,12.63
+il mostro nero e un tornado,IT-Wizard,short,6,multisteps,neutral,tornado,24.29,31.29,44.42,12.22,12.81,12.18,12.41,13.11,12.52,12.63,12.13
+il mostro nero tornado che cos Ã¨,IT-Wizard,long,7,multisteps,neutral,tornado,26.08,29.28,44.64,12.15,12.99,12.02,12.56,12.98,12.67,12.98,11.66
+quali cibi forniscono carboidrati,IT-Wizard,short,4,fact,neutral,sports,36.15,19.83,44.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+quali sono due ingredienti del dolce tipico della festa del papa,IT-Wizard,long,11,multisteps,neutral,father day,29.44,18.28,52.28,12.98,12.78,12.52,12.09,12.36,12.45,12.77,12.05
+quali sono gli altri nomi del tornado,IT-Wizard,long,7,fact,neutral,tornado,26.89,32.3,40.8,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+quali sono i tipi di eruzione,IT-Wizard,short,6,multisteps,neutral,volcanos,28.04,29.58,42.38,12.49,12.17,12.56,12.16,13.47,12.02,11.81,13.33
+quali sono le coordinate geografiche,IT-Wizard,short,5,opensearch,positive,geography,44.28,25.05,30.67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+quali sono le regole del basket,IT-Wizard,short,6,opensearch,neutral,sports,20.23,22.23,57.54,13.44,12.32,13.21,12.14,12.14,12.04,12.02,12.68
+quali sono le regole del tennis,IT-Wizard,short,6,opensearch,neutral,sports,24.63,15.74,59.63,13.5,12.38,13.45,11.88,11.91,12.12,12.19,12.57
+quando e nato il tennis,IT-Wizard,short,5,fact,neutral,sports,18.04,15.7,66.26,13.5,12.38,13.45,11.88,11.91,12.12,12.19,12.57
+quanti esemplari di leopardo delle nevi sono rimasti,IT-Wizard,long,8,multisteps,negative,endangered animals,20.24,40.2,39.56,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+quanti esemplari rimangono di leopardo delle nevi,IT-Wizard,long,7,multisteps,negative,endangered animals,20.24,40.2,39.56,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+quanti giocatori ci sono in ogni squadra di basket,IT-Wizard,long,9,fact,neutral,sports,21.21,25.55,53.23,13.43,12.46,13.14,11.85,12.07,12.1,12.44,12.52
+quanti sono i fantasmi delle montagne,IT-Wizard,short,6,multisteps,neutral,endangered animals,17.47,26.29,56.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tre animal a rischio estinzione,IT-Wizard,short,5,fact,neutral,endangered animals,22.78,19.57,57.65,12.14,12.27,12.22,11.86,13.5,12.06,13.15,12.81
+trova tre animali a rischio di estinzione,IT-Wizard,long,7,fact,neutral,endangered animals,26.43,25.9,47.67,12.29,12.43,12.14,12.25,13.22,12.41,12.75,12.51
+velociraptor dove e quando e vissuto,IT-Wizard,short,6,fact,neutral,endangered animals,22.27,35.84,41.88,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+esemplari fantasma delle montagne,IT-Suggeritti,short,4,fact,neutral,endangered animals,20.92,21.41,57.67,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+leopardo delle nevi,IT-Suggeritti,short,3,fact,neutral,endangered animals,17.27,39.51,43.22,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+leopardo delle nevi classificazione,IT-Suggeritti,short,4,fact,neutral,endangered animals,24.03,28.01,47.96,12.35,12.25,11.97,12.66,12.68,12.2,12.69,13.21
+altri nomi del tornado,IT-Suggeritti,short,4,fact,neutral,tornado,26.89,32.3,40.8,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+animali a rischio di estinzione,IT-Suggeritti,short,5,fact,neutral,endangered animals,21.37,21.06,57.57,12.29,12.43,12.14,12.25,13.22,12.41,12.75,12.51
+azioni per evitare estinzione degli animali,IT-Suggeritti,short,6,infosearch,neutral,endangered animals,28.46,18.35,53.19,12.26,12.06,11.94,12.67,12.9,13.03,12.53,12.6
+che velcitÃ  puÃ² raggiungere un tornado,IT-Suggeritti,short,6,fact,neutral,tornado,29.18,26.57,44.25,12.17,11.72,12.62,11.94,12.98,12.51,12.59,13.47
+come aiutare gli animali in via di estinzion^?,IT-Suggeritti,long,8,infosearch,neutral,endangered animals,23.57,32.23,44.2,11.98,12.32,11.93,12.4,12.56,13.56,12.98,12.27
+come aiutare gli animali in via di estinzione?,IT-Suggeritti,long,8,infosearch,neutral,endangered animals,23.61,26.49,49.9,12.17,12.31,11.98,12.5,12.69,13.11,12.79,12.45
+come aiutare le specie in estinzione,IT-Suggeritti,short,6,infosearch,neutral,endangered animals,33.15,26.98,39.87,12.0,12.3,12.04,12.36,12.74,12.73,13.21,12.63
+come aiutare le specie in estinzione focus,IT-Suggeritti,long,7,infosearch,neutral,endangered animals,33.15,26.98,39.87,12.0,12.3,12.04,12.36,12.74,12.73,13.21,12.63
+come possiamo aiutare le specie in pericolo,IT-Suggeritti,long,7,infosearch,negative,endangered animals,32.81,34.24,32.96,11.72,12.51,12.15,11.82,13.31,12.6,13.44,12.45
+come possiamo salvare gli animali quasi estinti,IT-Suggeritti,long,7,infosearch,neutral,endangered animals,22.25,35.99,41.76,12.19,12.07,11.86,12.37,12.74,13.36,12.87,12.54
+come si forma un tornado,IT-Suggeritti,short,5,infosearch,neutral,tornado,29.95,28.56,41.49,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+la classificazione del leopardo delle nevi,IT-Suggeritti,short,6,fact,neutral,endangered animals,20.99,33.5,45.51,12.35,12.25,11.97,12.66,12.68,12.2,12.69,13.21
+mostro nero,IT-Suggeritti,short,2,multisteps,neutral,tornado,26.08,29.28,44.64,12.15,12.99,12.02,12.56,12.98,12.67,12.98,11.66
+qual Ã¨ il vulcano attivo piÃ¹ antico,IT-Suggeritti,long,7,fact,neutral,volcanos,38.53,19.98,41.49,12.34,12.37,12.19,12.39,12.97,12.64,12.67,12.43
+quale tipologia di eruzione provoca piÃ¹ danni?,IT-Suggeritti,long,7,multisteps,neutral,volcanos,23.89,29.44,46.68,12.07,12.17,12.28,12.35,13.06,12.04,12.79,13.23
+quali animali sono in via di estinzione,IT-Suggeritti,long,7,fact,neutral,endangered animals,21.12,19.53,59.35,12.58,12.52,12.02,12.89,12.78,12.71,12.15,12.33
+quali sono gli esemplari rimasti di fantasma ...,IT-Suggeritti,long,8,multisteps,neutral,endangered animals,20.68,36.71,42.61,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+quando Ã¨ avvenuto il mostro nero,IT-Suggeritti,short,6,multisteps,neutral,tornado,24.43,27.49,48.08,12.15,12.99,12.02,12.56,12.98,12.67,12.98,11.66
+quante specie di leopardi delle nevi esistono,IT-Suggeritti,long,7,multisteps,negative,endangered animals,28.78,37.57,33.66,12.09,12.69,12.15,12.65,12.75,12.06,13.2,12.41
+quanti esemplari sono rimasti di fantasma del...,IT-Suggeritti,long,7,multisteps,neutral,endangered animals,20.68,36.71,42.61,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+quanti sono gli esemplari di leopardo delle nevi,IT-Suggeritti,long,8,multisteps,neutral,endangered animals,19.89,32.59,47.52,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+quanti sono gli esemplari rimasti di fantasma ...,IT-Suggeritti,long,8,multisteps,neutral,endangered animals,20.68,36.71,42.61,11.81,12.31,12.83,11.94,13.09,12.3,12.72,13.0
+sinonimi del tornado,IT-Suggeritti,short,3,fact,neutral,tornado,20.7,35.33,43.97,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+tigre bianca,IT-Suggeritti,short,2,fact,neutral,endangered animals,30.1,19.6,50.29,12.96,13.02,12.49,12.28,13.0,12.19,11.9,12.17
+velocitÃ  massima del tornado,IT-Suggeritti,short,4,fact,positive,tornado,38.16,24.88,36.96,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+velocitÃ  massima di un tornado,IT-Bambini,short,5,fact,positive,tornado,38.16,24.88,36.96,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+3 animali in estinzione,IT-Bambini,short,4,fact,neutral,endangered animals,21.12,19.53,59.35,12.58,12.52,12.02,12.89,12.78,12.71,12.15,12.33
+classificazione del leopardo delle nevi,IT-Bambini,short,5,fact,neutral,endangered animals,20.99,33.5,45.51,12.35,12.25,11.97,12.66,12.68,12.2,12.69,13.21
+classificazione leopardo delle nevi,IT-Bambini,short,4,fact,neutral,endangered animals,20.99,33.5,45.51,12.35,12.25,11.97,12.66,12.68,12.2,12.69,13.21
+come aiutarele specie in estinzione,IT-Bambini,short,5,infosearch,neutral,endangered animals,37.78,22.36,39.86,12.54,12.29,12.07,12.69,12.95,12.25,12.42,12.8
+come possiamo aiutare le specie in estinzione,IT-Bambini,long,7,infosearch,negative,endangered animals,31.43,34.57,34.0,12.0,12.3,12.04,12.36,12.74,12.73,13.21,12.63
+come si chiama Monica,IT-Bambini,short,4,unknown,positive,,46.68,34.56,18.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+come si formano i vulcani?,IT-Bambini,short,5,opensearch,neutral,volcanos,36.49,18.5,45.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+come si trovano i vulcani?,IT-Bambini,short,5,opensearch,positive,volcanos,37.69,27.81,34.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+come viene classificato il leopardo delle nevi?,IT-Bambini,long,7,fact,negative,endangered animals,19.06,43.47,37.48,12.78,12.43,12.45,12.31,12.95,12.31,11.93,12.85
+cosa possiamo fare per aiutare le specie in es...,IT-Bambini,long,9,infosearch,negative,endangered animals,31.84,41.42,26.74,11.74,12.3,12.02,12.21,12.64,12.96,13.59,12.54
+sviluppo di un tornado e i suoi effetti,IT-Bambini,long,8,opensearch,neutral,tornado,31.32,22.85,45.83,12.4,12.24,12.24,11.83,13.02,12.13,12.86,13.28
+tipo di eruzione piÃ¹ dannoso,IT-Bambini,short,5,multisteps,neutral,volcanos,27.05,28.89,44.06,12.05,12.48,12.22,12.37,13.03,12.55,12.83,12.47
+tornado,IT-Bambini,short,1,fact,positive,tornado,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tornado mostro nero,IT-Bambini,short,3,multisteps,neutral,tornado,26.08,29.28,44.64,12.15,12.99,12.02,12.56,12.98,12.67,12.98,11.66
+tornado veloce,IT-Bambini,short,2,fact,negative,tornado,28.69,55.32,15.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+tornado velocita,IT-Bambini,short,2,fact,neutral,tornado,20.7,35.33,43.97,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+tornado velocita mostro nero,IT-Bambini,short,4,multisteps,neutral,tornado,24.29,31.29,44.42,12.22,12.81,12.18,12.41,13.11,12.52,12.63,12.13
+velocita tornado,IT-Bambini,short,2,fact,neutral,tornado,20.7,35.33,43.97,12.37,12.42,12.52,12.08,13.38,12.2,11.89,13.13
+vulcani tipologia di eruzioni danni,IT-Bambini,short,5,multisteps,neutral,volcanos,23.62,20.23,56.14,11.69,12.17,12.03,12.52,12.69,12.07,13.69,13.14
+vulcano attivo antico,IT-Bambini,short,3,fact,neutral,volcanos,38.53,19.98,41.49,12.34,12.37,12.19,12.39,12.97,12.64,12.67,12.43
+vulcano piÃ¹ antico attivo,IT-Bambini,short,4,fact,positive,volcanos,40.91,22.37,36.73,12.12,12.24,12.07,12.61,12.8,12.9,12.97,12.28
