@@ -1,5 +1,7 @@
 LLM,vector,test_name,test_stat,p_val,is_significant
-Gemma,sentiment,ANOVA,,,False
-Gemma,emotion,ANOVA,,,False
-GPT,sentiment,ANOVA,,,False
-GPT,emotion,ANOVA,,,False
+Gemma,sentiment,Kruskal Wallis,11.591314420779742,0.008922689532367823,True
+Gemma,emotion,Kruskal Wallis,17.0816363110728,0.0006799384595948556,True
+GPT,sentiment,Kruskal Wallis,3.658202555757825,0.30081594268474204,False
+GPT,emotion,Kruskal Wallis,8.792352683071183,0.03218294229418946,True
+Gemma_GPT,sentiment,Mann-Whitney,4342.5,0.9608932827009695,False
+Gemma_GPT,emotion,Mann-Whitney,4896.0,0.1194429454279116,False

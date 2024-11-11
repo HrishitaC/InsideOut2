@@ -1,22 +1,22 @@
 group_name,feature,central_val,test_name,test_val,p_val,is_significant
-LLM_sentiment_JSD,JSD,0.0503,sign_test,55.0,1.5407439555097887e-33,True
-LLM_emotion_JSD,JSD,0.0067,1 sample T-Test,20.812389944058616,1.3711039971276861e-39,True
-Gemma_query_resp_OG_sentiment_JSD,JSD,0.0734,1 sample T-Test,17.859595964084576,9.721327363924803e-34,True
+LLM_sentiment_JSD,JSD,0.0499,sign_test,54.5,3.0814879110195774e-33,True
+LLM_emotion_JSD,JSD,0.0067,sign_test,53.5,1.232595164407831e-32,True
+Gemma_query_resp_OG_sentiment_JSD,JSD,0.0681,sign_test,46.5,2.0194839173657902e-28,True
 Gemma_query_resp_OG_emotion_JSD,JSD,0.0096,1 sample T-Test,22.896875126093718,5.353620241373142e-40,True
-Gemma_query_resp_RQ_male_sentiment_JSD,JSD,0.0733,1 sample T-Test,19.478059253131264,8.295033602538655e-37,True
+Gemma_query_resp_RQ_male_sentiment_JSD,JSD,0.0678,sign_test,47.0,1.0097419586828951e-28,True
 Gemma_query_resp_RQ_male_emotion_JSD,JSD,0.012,1 sample T-Test,24.641594360373492,1.5072036717061858e-42,True
-Gemma_query_resp_RQ_female_sentiment_JSD,JSD,0.0703,1 sample T-Test,19.43831883417005,9.827947870202795e-37,True
-Gemma_query_resp_RQ_female_emotion_JSD,JSD,0.0129,1 sample T-Test,20.87405662506113,7.274299832447214e-37,True
-Gemma_query_resp_RQ_neutral_sentiment_JSD,JSD,0.0897,1 sample T-Test,22.558011826701087,2.913680955353724e-42,True
+Gemma_query_resp_RQ_female_sentiment_JSD,JSD,0.0683,sign_test,47.0,1.0097419586828951e-28,True
+Gemma_query_resp_RQ_female_emotion_JSD,JSD,0.0129,sign_test,47.0,1.0097419586828951e-28,True
+Gemma_query_resp_RQ_neutral_sentiment_JSD,JSD,0.0887,sign_test,47.0,1.0097419586828951e-28,True
 Gemma_query_resp_RQ_neutral_emotion_JSD,JSD,0.0121,1 sample T-Test,25.853685483867995,3.0429679322770685e-44,True
-GPT_query_resp_OG_sentiment_JSD,JSD,0.0701,1 sample T-Test,17.769339441343835,1.4557990210462909e-33,True
-GPT_query_resp_OG_emotion_JSD,JSD,0.0084,1 sample T-Test,17.25303369702686,1.3748494635639967e-30,True
-GPT_query_resp_RQ_male_sentiment_JSD,JSD,0.0764,1 sample T-Test,21.316149235886424,4.0231512558555656e-40,True
-GPT_query_resp_RQ_male_emotion_JSD,JSD,0.009,1 sample T-Test,19.687604481575853,6.216963817749116e-35,True
-GPT_query_resp_RQ_female_sentiment_JSD,JSD,0.081,1 sample T-Test,18.461507547779554,6.755109282447176e-35,True
-GPT_query_resp_RQ_female_emotion_JSD,JSD,0.0104,1 sample T-Test,22.090085498086466,1.4894512265169917e-38,True
-GPT_query_resp_RQ_neutral_sentiment_JSD,JSD,0.0863,1 sample T-Test,20.390170422235215,1.7859075676561696e-38,True
-GPT_query_resp_RQ_neutral_emotion_JSD,JSD,0.0109,1 sample T-Test,22.534831739762264,1.8841014043310554e-39,True
+GPT_query_resp_OG_sentiment_JSD,JSD,0.0666,sign_test,45.5,8.077935669463161e-28,True
+GPT_query_resp_OG_emotion_JSD,JSD,0.0084,sign_test,41.0,4.1359030627651384e-25,True
+GPT_query_resp_RQ_male_sentiment_JSD,JSD,0.075,1 sample T-Test,20.692092449435986,3.565839940296742e-36,True
+GPT_query_resp_RQ_male_emotion_JSD,JSD,0.009,1 sample T-Test,19.94760145791682,5.514214262030964e-35,True
+GPT_query_resp_RQ_female_sentiment_JSD,JSD,0.0767,sign_test,45.5,8.077935669463161e-28,True
+GPT_query_resp_RQ_female_emotion_JSD,JSD,0.0104,1 sample T-Test,21.86013914347592,5.516119988170166e-38,True
+GPT_query_resp_RQ_neutral_sentiment_JSD,JSD,0.0849,1 sample T-Test,18.954730162834018,2.3546125989834463e-33,True
+GPT_query_resp_RQ_neutral_emotion_JSD,JSD,0.0107,1 sample T-Test,22.141649182538295,2.0659280070997333e-38,True
 Gemma_avg_OG_sentiment_JSD,JSD,0.0433,sign_test,55.0,1.5407439555097887e-33,True
 Gemma_avg_OG_emotion_JSD,JSD,0.0069,sign_test,55.0,1.5407439555097887e-33,True
 Gemma_avg_RQ_male_sentiment_JSD,JSD,0.031,sign_test,55.0,1.5407439555097887e-33,True
@@ -25,11 +25,11 @@ Gemma_avg_RQ_female_sentiment_JSD,JSD,0.0337,sign_test,55.0,1.5407439555097887e-
 Gemma_avg_RQ_female_emotion_JSD,JSD,0.0062,sign_test,55.0,1.5407439555097887e-33,True
 Gemma_avg_RQ_neutral_sentiment_JSD,JSD,0.0347,sign_test,55.0,1.5407439555097887e-33,True
 Gemma_avg_RQ_neutral_emotion_JSD,JSD,0.006,sign_test,55.0,1.5407439555097887e-33,True
-GPT_avg_OG_sentiment_JSD,JSD,0.0482,sign_test,55.0,1.5407439555097887e-33,True
-GPT_avg_OG_emotion_JSD,JSD,0.0076,1 sample T-Test,24.593370197595263,4.599497065659223e-46,True
-GPT_avg_RQ_male_sentiment_JSD,JSD,0.0397,sign_test,55.0,1.5407439555097887e-33,True
-GPT_avg_RQ_male_emotion_JSD,JSD,0.0061,1 sample T-Test,21.529321957836434,7.150159573501232e-41,True
-GPT_avg_RQ_female_sentiment_JSD,JSD,0.0457,sign_test,55.0,1.5407439555097887e-33,True
-GPT_avg_RQ_female_emotion_JSD,JSD,0.0057,1 sample T-Test,25.186201207708084,5.127103942373681e-47,True
-GPT_avg_RQ_neutral_sentiment_JSD,JSD,0.0405,sign_test,55.0,1.5407439555097887e-33,True
-GPT_avg_RQ_neutral_emotion_JSD,JSD,0.006,sign_test,55.0,1.5407439555097887e-33,True
+GPT_avg_OG_sentiment_JSD,JSD,0.0478,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_OG_emotion_JSD,JSD,0.0076,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_male_sentiment_JSD,JSD,0.0394,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_male_emotion_JSD,JSD,0.006,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_female_sentiment_JSD,JSD,0.0452,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_female_emotion_JSD,JSD,0.0056,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_neutral_sentiment_JSD,JSD,0.0405,sign_test,53.5,1.232595164407831e-32,True
+GPT_avg_RQ_neutral_emotion_JSD,JSD,0.0059,sign_test,53.5,1.232595164407831e-32,True
