@@ -1,0 +1,177 @@
+QID,Query,Prompt Type,Task Sentiment
+qGEN1,Chi era il padre di Micerino ?,General,
+qGEN2,Il figlio di Chefren,General,
+qGEN3,Il padre di Micerino,General,
+qGEN4,Micerino,General,
+qGEN5,Quanto e alta la tomba di Cheope?,General,
+qGEN6,Si e scoperto il padre di Micerino?,General,
+qGEN7,quali sono le regole principali della pallavolo,General,
+qGEN8,quanti leopardi delle nevi sono rimasti,General,
+qGEN9,CHE VELOCITA PUO RAGGIUNGERE UN TORNADO FENOMENO NATURALE,General,
+qGEN10,Come si costruivano le piramidi Egizie?,General,
+qGEN11,Dove si trova la piramide di Cheope?,General,
+qGEN12,FANTASMA DELLE MONTAGNE,General,
+qGEN13,QUALI SONO GLI ALTRI NOMI DI UN TORTANADO,General,
+qGEN14,Quale e la piramide egizia piu` alta ?,General,
+qGEN15,Quanto era alta la tomba del padre di Micerino?,General,
+qGEN16,quanto Ã¨ alta la tomba del padre di micerino,General,
+qGEN17,quanto Ã¨ alta la tomba del padre micerino,General,
+qGEN18,quanto Ã¨ alta la tomba di Chefren,General,
+qGEN19,quanto Ã¨ alta la tomba di micerino,General,
+qGEN20,quanto Ã©l alta la tomba di micerino,General,
+qGEN21,regioni italÃ©8iane con piu` squadre di pallavolo,General,
+qGEN22,tre animali a rischio di estinzione,General,
+qGEN23,tre animali a rischio estinzione,General,
+qGEN24,tre animali in via di estinzione,General,
+qGEN25,trova 3 animali a rischio di estinzione,General,
+qGEN26,un bambino sano quanto pasti fa al giorno,General,
+qGEN27,un fantasma delle montagne foto,General,
+qGEN28,vulcano attivo piu atlantico,General,
+qGEN29,wwf in via di estinzione,General,
+qGEN30,zigurat,General,
+qGEN31,i vantaggi della dieta mediterranea,General,
+qGEN32,il leopardo delle nevi e invertebrato o vertebrato,General,
+qGEN33,chi era san giuseppe,General,
+qGEN34,come e nata la festa del papa,General,
+qGEN35,come possiamo aiutare gli animali in estinzione,General,
+qGEN36,come si formano i vulcani,General,
+qGEN37,come si localizza un punto su una mappa,General,
+qGEN38,come si sviluppa un tornado,General,
+qGEN39,come si sviluppa un tornado e i suoi effetti,General,
+qGEN40,come si trova un punto su una mappa,General,
+qGEN41,come viene classificato il leopardo delle nevi,General,
+qGEN42,cosa possiamo fare per aiutare le specie in estinzione,General,
+qGEN43,cosa possiamo fare per aiutare le specie in via di estinzione,General,
+qGEN44,il mostro nero e un tornado,General,
+qGEN45,il mostro nero tornado che cos Ã¨,General,
+qGEN46,quali cibi forniscono carboidrati,General,
+qGEN47,quali sono due ingredienti del dolce tipico della festa del papa,General,
+qGEN48,quali sono gli altri nomi del tornado,General,
+qGEN49,quali sono i tipi di eruzione,General,
+qGEN50,quali sono le coordinate geografiche,General,
+qGEN51,quali sono le regole del basket,General,
+qGEN52,quali sono le regole del tennis,General,
+qGEN53,quando e nato il tennis,General,
+qGEN54,quanti esemplari di leopardo delle nevi sono rimasti,General,
+qGEN55,quanti esemplari rimangono di leopardo delle nevi,General,
+qGEN56,quanti giocatori ci sono in ogni squadra di basket,General,
+qGEN57,quanti sono i fantasmi delle montagne,General,
+qGEN58,tre animal a rischio estinzione,General,
+qGEN59,trova tre animali a rischio di estinzione,General,
+qGEN60,velociraptor dove e quando e vissuto,General,
+qGEN61,esemplari fantasma delle montagne,General,
+qGEN62,leopardo delle nevi,General,
+qGEN63,leopardo delle nevi classificazione,General,
+qGEN64,altri nomi del tornado,General,
+qGEN65,animali a rischio di estinzione,General,
+qGEN66,azioni per evitare estinzione degli animali,General,
+qGEN67,che velcitÃ  puÃ² raggiungere un tornado,General,
+qGEN68,come aiutare gli animali in via di estinzion^?,General,
+qGEN69,come aiutare gli animali in via di estinzione?,General,
+qGEN70,come aiutare le specie in estinzione,General,
+qGEN71,come aiutare le specie in estinzione focus,General,
+qGEN72,come possiamo aiutare le specie in pericolo,General,
+qGEN73,come possiamo salvare gli animali quasi estinti,General,
+qGEN74,come si forma un tornado,General,
+qGEN75,la classificazione del leopardo delle nevi,General,
+qGEN76,mostro nero,General,
+qGEN77,qual Ã¨ il vulcano attivo piÃ¹ antico,General,
+qGEN78,quale tipologia di eruzione provoca piÃ¹ danni?,General,
+qGEN79,quali animali sono in via di estinzione,General,
+qGEN80,quali sono gli esemplari rimasti di fantasma ...,General,
+qGEN81,quando Ã¨ avvenuto il mostro nero,General,
+qGEN82,quante specie di leopardi delle nevi esistono,General,
+qGEN83,quanti esemplari sono rimasti di fantasma del...,General,
+qGEN84,quanti sono gli esemplari di leopardo delle nevi,General,
+qGEN85,quanti sono gli esemplari rimasti di fantasma ...,General,
+qGEN86,sinonimi del tornado,General,
+qGEN87,tigre bianca,General,
+qGEN88,velocitÃ  massima del tornado,General,
+qGEN89,velocitÃ  massima di un tornado,General,
+qGEN90,3 animali in estinzione,General,
+qGEN91,classificazione del leopardo delle nevi,General,
+qGEN92,classificazione leopardo delle nevi,General,
+qGEN93,come aiutarele specie in estinzione,General,
+qGEN94,come possiamo aiutare le specie in estinzione,General,
+qGEN95,come si chiama Monica,General,
+qGEN96,come si formano i vulcani?,General,
+qGEN97,come si trovano i vulcani?,General,
+qGEN98,come viene classificato il leopardo delle nevi?,General,
+qGEN99,cosa possiamo fare per aiutare le specie in es...,General,
+qGEN100,sviluppo di un tornado e i suoi effetti,General,
+qGEN101,tipo di eruzione piÃ¹ dannoso,General,
+qGEN102,tornado,General,
+qGEN103,tornado mostro nero,General,
+qGEN104,tornado veloce,General,
+qGEN105,tornado velocita,General,
+qGEN106,tornado velocita mostro nero,General,
+qGEN107,velocita tornado,General,
+qGEN108,vulcani tipologia di eruzioni danni,General,
+qGEN109,vulcano attivo antico,General,
+qGEN110,vulcano piÃ¹ antico attivo,General,
+qEM1, le conseguenze negative della distruzione della foresta amazzonica,Emotionally Charged,Bad
+qEM2,Dove si trova l isola di plastica,Emotionally Charged,Bad
+qEM3,Dove si trova l isola di plastica ,Emotionally Charged,Bad
+qEM4,I ghiacciai in via di estinzione,Emotionally Charged,Bad
+qEM5,Il ghiacciaio piÅ« in via di estinzione,Emotionally Charged,Bad
+qEM6,Le regole per tenere le spiagge pulite,Emotionally Charged,Good
+qEM7,Le regole per tenere le spiagge pulite ,Emotionally Charged,Good
+qEM8,Le spiagge piÅ« piÃ¹ pulite,Emotionally Charged,Good
+qEM9,Quale nome si usa per definire una personache ha a cuore l,Emotionally Charged,Good
+qEM10,perchÃ© gli orsi polari si stanno estinguendo,Emotionally Charged,Bad
+qEM11,perchÃ© gli orsi polari si stanno estinguendo ,Emotionally Charged,Bad
+qEM12,perchÃ© gli orsi polari si stanno estinguendo sito babbanas,Emotionally Charged,Bad
+qEM13,BiodiversitÃ¡,Emotionally Charged,Good
+qEM14,CosÃ© il buco nel azono,Emotionally Charged,Bad
+qEM15,Dove si trova lisola di plastica,Emotionally Charged,Bad
+qEM16,Perche gli orsi polari diminuen,Emotionally Charged,Bad
+qEM17,Quanto psa lisola di plastica,Emotionally Charged,Bad
+qEM18,Temperature estivepiu elevate del 2019,Emotionally Charged,Bad
+qEM19,Cose il buco nello zono?,Emotionally Charged,Bad
+qEM20,Isola di plastica posto,Emotionally Charged,Bad
+qEM21,Isola diplastica cosÃ¨,Emotionally Charged,Bad
+qEM22,Lisola di plastica cosa Ã¨,Emotionally Charged,Bad
+qEM23,Nomi spiagge bandiera pulizia,Emotionally Charged,Good
+qEM24,PerchÃ¨ gli orsi polari diminuiscono?,Emotionally Charged,Bad
+qEM25,Peso bottiglia di plastica   ,Emotionally Charged,Bad
+qEM26,Quale ghiacciaio si sta sciogliendosi in modo preoccupante,Emotionally Charged,Bad
+qEM27,Spiagge con la bandiera della pulizia,Emotionally Charged,Good
+qEM28, 3 Spiagge con bandiera blu,Emotionally Charged,Good
+qEM29,Spiagge con bandiera blu,Emotionally Charged,Good
+qEM30,Temperature estive superano quelle misurate nel 2019,Emotionally Charged,Bad
+qEM31,spiagge bandiera blu 2019,Emotionally Charged,Good
+qEM32,spiagge bandiera blu 2019 molise,Emotionally Charged,Good
+qEM33,Regole per tenere pulite le spiagge,Emotionally Charged,Good
+qEM34, Spiagge con bandiera b,Emotionally Charged,Good
+qEM35, Spiagge con bandiera blu,Emotionally Charged,Good
+qEM36, Spiagge con bandiera della loro pulizia,Emotionally Charged,Good
+qEM37, Spiagge con bandiera di certificazione della loro pulizia,Emotionally Charged,Good
+qEM38,Causa della riduzione del lago aral,Emotionally Charged,Bad
+qEM39,Isola di plastica,Emotionally Charged,Bad
+qEM40,Spiagge con certificazione di pulizia ,Emotionally Charged,Good
+qEM41,Anno con temperature piÃ¹ alte,Emotionally Charged,Bad
+qEM42,Anno con temperature piÃ¹ alte ,Emotionally Charged,Bad
+qEM43,PerchÃ¨ gli orsi polari stanno diminuendo drasticamente di numero,Emotionally Charged,Bad
+qEM44,Quale nome si usa per definire una persona che ha a cuore ambiente,Emotionally Charged,Good
+qEM45,Conseguenze negative della distruzione della foresta amazzonica,Emotionally Charged,Bad
+qEM46,Cosa Ã¨ Ä¾isola di plastica,Emotionally Charged,Bad
+qEM47,Di cosa si occupa il WWF ?,Emotionally Charged,Good
+qEM48,Dove si trova Ä¾isola di plastica Cosa Ã¨,Emotionally Charged,Bad
+qEM49,netflix,Emotionally Charged,
+qEM50, persona che rispetta la natura,Emotionally Charged,Good
+qEM51,Qual Ã¨ la causa della riduzione del lago Aral,Emotionally Charged,Bad
+qEM52,Quale nome si usa per definire una persona che ha a cuore l,Emotionally Charged,Good
+qEM53,Cosa Ã¨  Ocean  Cleanup,Emotionally Charged,Good
+qEM54,Dove si trova Äº isola di plastica,Emotionally Charged,Bad
+qEM55,QuaÄº Ã¨ la causa della riduzione del lago aral,Emotionally Charged,Bad
+qEM56,cos e la biodiversitÃ ,Emotionally Charged,Good
+qEM57,Cosa Ã¨ ocean cleanup? Ita,Emotionally Charged,Good
+qEM58,Cosa Ã¨ ocean cleanup? Italino,Emotionally Charged,Good
+qEM59,Dove si trova Ä¾isola di plastica?,Emotionally Charged,Bad
+qEM60,Quali sono le regole per tenere le spiagge pulite ?,Emotionally Charged,Good
+qEM61,di cosa si occupa il wwf,Emotionally Charged,Good
+qEM62,Di cosa si occupa il WWF?,Emotionally Charged,Good
+qEM63,Cosa Ã¨ Ocean Cleanup ?,Emotionally Charged,Good
+qEM64,Quali sono le regole per tenere le spiagge pulite?,Emotionally Charged,Good
+qEM65,Di cosa si occupa la WWF,Emotionally Charged,Good
+qEM66,Cosa Ã¨ ocean cleanup?,Emotionally Charged,Good
