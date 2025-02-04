@@ -1,0 +1,9 @@
+Analysis,Prompt Type,Task Sentiment,Text Sample,positive,negative,neutral,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+Lexical,General,Overall,Gemma,16.22,19.13,64.65,10.19,7.22,0.33,14.86,9.48,5.59,7.94,43.47
+Lexical,EM,Overall,Gemma,16.16,16.72,67.12,8.41,4.91,0.51,6.46,6.39,2.03,20.57,50.71
+Lexical,EM,Bad,Gemma,15.32,16.42,68.26,6.06,6.8,0.0,10.91,4.8,1.19,28.77,41.47
+Lexical,EM,Good,Gemma,16.87,16.75,66.38,11.09,2.34,1.04,2.08,8.23,2.97,12.76,59.48
+Semantic,General,Overall,Gemma,40.17,59.83,,3.92,,,21.09,33.34,41.65,,
+Semantic,EM,Overall,Gemma,47.1,52.9,,6.34,,,17.38,29.63,46.66,,
+Semantic,EM,Bad,Gemma,22.91,77.09,,8.72,,,29.34,9.13,52.81,,
+Semantic,EM,Good,Gemma,70.39,29.61,,4.08,,,5.58,48.57,41.77,,
