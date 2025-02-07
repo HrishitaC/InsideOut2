@@ -13,3 +13,17 @@ Lexical,EM,Overall,Bing,4,15.46,14.83,69.72,4.34,10.49,3.23,11.52,8.12,5.96,20.6
 Lexical,EM,Overall,Bing,5,15.48,14.6,69.93,4.38,12.56,2.25,11.57,6.22,7.01,18.54,37.48
 Lexical,EM,Bad,Bing,Overall,15.53,15.63,68.83,5.32,14.64,2.44,15.87,4.41,4.04,22.12,31.16
 Lexical,EM,Good,Bing,Overall,15.52,13.38,71.11,4.52,11.0,3.29,5.09,10.76,6.53,15.28,43.53
+Semantic,General,Overall,Bing,Overall,42.03,57.97,,3.58,,,28.61,35.53,32.27,,
+Semantic,General,Overall,Bing,1,41.58,58.42,,1.84,,,32.71,26.29,39.16,,
+Semantic,General,Overall,Bing,2,41.37,58.63,,3.14,,,26.12,33.46,37.28,,
+Semantic,General,Overall,Bing,3,43.97,56.03,,2.22,,,28.89,38.01,30.89,,
+Semantic,General,Overall,Bing,4,42.76,57.24,,3.47,,,27.16,43.72,25.64,,
+Semantic,General,Overall,Bing,5,40.48,59.52,,7.3,,,28.08,36.42,28.19,,
+Semantic,EM,Overall,Bing,Overall,35.49,64.51,,14.14,,,18.01,29.75,38.11,,
+Semantic,EM,Overall,Bing,1,27.43,72.57,,18.06,,,13.71,23.35,44.89,,
+Semantic,EM,Overall,Bing,2,35.28,64.72,,13.31,,,16.42,31.01,39.26,,
+Semantic,EM,Overall,Bing,3,37.39,62.61,,8.4,,,17.99,36.65,36.95,,
+Semantic,EM,Overall,Bing,4,43.91,56.09,,10.76,,,21.13,29.9,38.21,,
+Semantic,EM,Overall,Bing,5,33.52,66.48,,20.1,,,20.83,27.89,31.17,,
+Semantic,EM,Bad,Bing,Overall,9.88,90.12,,13.23,,,28.9,9.91,47.96,,
+Semantic,EM,Good,Bing,Overall,64.42,35.58,,15.16,,,5.7,52.15,26.99,,
