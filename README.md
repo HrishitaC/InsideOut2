@@ -42,7 +42,7 @@ After all code blocks have run successfully, the `Data/` folder should be popula
 
 ## Query-wise Emotional Detection
 
-## Step 1: Loading Italian Lexicons and Models
+### Step 1: Loading Italian Lexicons and Models
 For LexIT approach, the two Italian lexicons are downloaded using the embedded links below and stored in `Data/` folder.
 
 1. [Distributional Polarity Lexicon](http://sag.art.uniroma2.it/demo-software/distributional-polarity-lexicon/): In our study, we use the DPLp-IT lexicon specifically.
@@ -50,7 +50,7 @@ For LexIT approach, the two Italian lexicons are downloaded using the embedded l
 
 In case of the FEEL-IT approach, the required models are loaded at the time of execution from [Hugging Face](https://huggingface.co/MilaNLProc/feel-it-italian-emotion).
 
-## Step 2: Computing Sentiment and Emotion vectors
+### Step 2: Computing Sentiment and Emotion vectors
 Assign the name of the file containing the user queries to `query_file_name` variable in `Code/sentiment_emotion_vectors.ipynb`, and then run all all the code blocks in `Code/sentiment_emotion_vectors.ipynb` from the beginning in order. 
 
 Once all code blocks have run successfully, the query-wise sentiment and emotion vectors for each synthetic log will be stored under the `Results/` folder.
