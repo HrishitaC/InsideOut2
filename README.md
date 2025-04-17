@@ -32,7 +32,7 @@ Personal access tokens can be generated using the documentations linked below.
 2. [OpenAI API](https://platform.openai.com/api-keys)
 3. [HuggingFace API](https://huggingface.co/docs/hub/en/security-tokens)
 
-**Note: Access tokens are meant to be private and it is strongly advised to remove the access token strings from the file prior to sharing the code base publically to avoid any data leakage issues.**
+**Note: Access tokens are meant to be private and it is strongly advised to remove the access token strings from the JSON file prior to sharing the code base publically to avoid any data leakage issues.**
 
 ### Step 2: Generating IAS responses
 
